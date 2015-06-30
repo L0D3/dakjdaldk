@@ -1,17 +1,24 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.27)  27 JUN 2015 15:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.9.16)  30 JUN 2015 20:16
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **typeinst.tex
-(./typeinst.tex
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\typeinst.tex"
 LaTeX2e <2011/06/27>
-Babel <3.9h> and hyphenation patterns for 78 languages loaded.
-(./llncs.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\llncs.cls"
 Document Class: llncs 2014/03/31 v2.19 
  LaTeX document class for Lecture Notes in Computer Science
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -26,7 +33,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count87
 \mult@box=\box26
@@ -74,10 +81,10 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \colbreak@box=\box51
 \multicol@sort@counter=\count95
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/aliascnt.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\aliascnt.sty"
 Package: aliascnt 2009/09/08 v1.3 Alias counters (HO)
 
-(/usr/share/texlive/texmf-dist/tex/latex/carlisle/remreset.sty))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\carlisle\remreset.sty"))
 \c@chapter=\count96
 LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
 LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
@@ -129,34 +136,39 @@ LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
 \c@remark=\count115
 \headlineindent=\dimen123
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/12/03 3.9h The Babel package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
+Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/12/03 3.9h Babel common definitions
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count116
 \U@D=\dimen124
 )
 \l@naustrian = a dialect from \language\l@ngerman 
-\l@nswissgerman = a dialect from \language\l@ngerman 
-Package babel Info: Making " an active character on input line 88.
+Package babel Info: Making " an active character on input line 92.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -306,7 +318,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -337,7 +349,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -361,10 +373,10 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks20
 \symAMSa=\mathgroup4
@@ -372,31 +384,31 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks21
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count117
@@ -404,24 +416,24 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen125
 \Gin@req@width=\dimen126
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks22
 \ex@=\dimen127
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen128
 )
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count118
@@ -465,36 +477,58 @@ Package amsmath Warning: Unable to redefine math accent \vec.
 \mathdisplay@stack=\toks26
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
-) (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+) (C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip48
+\subfigcapskip=\skip49
+\subfigcaptopadj=\dimen136
+\subfigbottomskip=\skip50
+\subfigcapmargin=\dimen137
+\subfiglabelskip=\skip51
+\c@subfigure=\count130
+\c@lofdepth=\count131
+\c@subtable=\count132
+\c@lotdepth=\count133
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip52
+\subfig@bottom=\skip53
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\eurosym\eurosym.sty"
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box56
+)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2013/11/25 v2.8a programmable bibliographies (PK/JW/AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.sty
+Package: biblatex 2015/04/19 v3.0 programmable bibliographies (PK/JW/AB)
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex2.sty
-Package: biblatex2 2013/11/25 v2.8a programmable bibliographies (biber) (PK/JW/
-AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex2.sty
+Package: biblatex2 2015/04/19 v3.0 programmable bibliographies (biber) (PK/JW/A
+B)
 
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2015/05/04 v2.2 e-TeX tools for LaTeX (JAW)
 
-(/usr/share/texlive/texmf-dist/tex/latex/etex-pkg/etex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count130
+\et@xins=\count134
 )
-\etb@tempcnta=\count131
+\etb@tempcnta=\count135
 )
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -503,186 +537,194 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count132
+\lrq@indent=\count136
 
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count133
-\c@listtotal=\count134
-\c@listcount=\count135
-\c@liststart=\count136
-\c@liststop=\count137
-\c@citecount=\count138
-\c@citetotal=\count139
-\c@multicitecount=\count140
-\c@multicitetotal=\count141
-\c@instcount=\count142
-\c@maxnames=\count143
-\c@minnames=\count144
-\c@maxitems=\count145
-\c@minitems=\count146
-\c@citecounter=\count147
-\c@savedcitecounter=\count148
-\c@uniquelist=\count149
-\c@uniquename=\count150
-\c@refsection=\count151
-\c@refsegment=\count152
-\c@maxextratitle=\count153
-\c@maxextratitleyear=\count154
-\c@maxextrayear=\count155
-\c@maxextraalpha=\count156
-\c@abbrvpenalty=\count157
-\c@highnamepenalty=\count158
-\c@lownamepenalty=\count159
-\c@maxparens=\count160
-\c@parenlevel=\count161
-\blx@tempcnta=\count162
-\blx@tempcntb=\count163
-\blx@tempcntc=\count164
-\blx@maxsection=\count165
-\blx@maxsegment@0=\count166
-\blx@notetype=\count167
-\blx@parenlevel@text=\count168
-\blx@parenlevel@foot=\count169
-\blx@sectionciteorder@0=\count170
-\labelnumberwidth=\skip48
-\labelalphawidth=\skip49
-\shorthandwidth=\skip50
-\biblabelsep=\skip51
-\bibitemsep=\skip52
-\bibnamesep=\skip53
-\bibinitsep=\skip54
-\bibparsep=\skip55
-\bibhang=\skip56
+\c@tabx@nest=\count137
+\c@listtotal=\count138
+\c@listcount=\count139
+\c@liststart=\count140
+\c@liststop=\count141
+\c@citecount=\count142
+\c@citetotal=\count143
+\c@multicitecount=\count144
+\c@multicitetotal=\count145
+\c@instcount=\count146
+\c@maxnames=\count147
+\c@minnames=\count148
+\c@maxitems=\count149
+\c@minitems=\count150
+\c@citecounter=\count151
+\c@savedcitecounter=\count152
+\c@uniquelist=\count153
+\c@uniquename=\count154
+\c@refsection=\count155
+\c@refsegment=\count156
+\c@maxextratitle=\count157
+\c@maxextratitleyear=\count158
+\c@maxextrayear=\count159
+\c@maxextraalpha=\count160
+\c@abbrvpenalty=\count161
+\c@highnamepenalty=\count162
+\c@lownamepenalty=\count163
+\c@maxparens=\count164
+\c@parenlevel=\count165
+\blx@tempcnta=\count166
+\blx@tempcntb=\count167
+\blx@tempcntc=\count168
+\blx@maxsection=\count169
+\blx@maxsegment@0=\count170
+\blx@notetype=\count171
+\blx@parenlevel@text=\count172
+\blx@parenlevel@foot=\count173
+\blx@sectionciteorder@0=\count174
+\labelnumberwidth=\skip54
+\labelalphawidth=\skip55
+\biblabelsep=\skip56
+\bibitemsep=\skip57
+\bibnamesep=\skip58
+\bibinitsep=\skip59
+\bibparsep=\skip60
+\bibhang=\skip61
 \blx@bcfin=\read1
 \blx@bcfout=\write3
-\c@mincomprange=\count171
-\c@maxcomprange=\count172
-\c@mincompwidth=\count173
+\c@mincomprange=\count175
+\c@maxcomprange=\count176
+\c@mincompwidth=\count177
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear-icomp.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count174
-\c@savedafterword=\count175
-\c@annotator=\count176
-\c@savedannotator=\count177
-\c@author=\count178
-\c@savedauthor=\count179
-\c@bookauthor=\count180
-\c@savedbookauthor=\count181
-\c@commentator=\count182
-\c@savedcommentator=\count183
-\c@editor=\count184
-\c@savededitor=\count185
-\c@editora=\count186
-\c@savededitora=\count187
-\c@editorb=\count188
-\c@savededitorb=\count189
-\c@editorc=\count190
-\c@savededitorc=\count191
-\c@foreword=\count192
-\c@savedforeword=\count193
-\c@holder=\count194
-\c@savedholder=\count195
-\c@introduction=\count196
-\c@savedintroduction=\count197
-\c@namea=\count198
-\c@savednamea=\count199
-\c@nameb=\count200
-\c@savednameb=\count201
-\c@namec=\count202
-\c@savednamec=\count203
-\c@shortauthor=\count204
-\c@savedshortauthor=\count205
-\c@shorteditor=\count206
-\c@savedshorteditor=\count207
+\c@afterword=\count178
+\c@savedafterword=\count179
+\c@annotator=\count180
+\c@savedannotator=\count181
+\c@author=\count182
+\c@savedauthor=\count183
+\c@bookauthor=\count184
+\c@savedbookauthor=\count185
+\c@commentator=\count186
+\c@savedcommentator=\count187
+\c@editor=\count188
+\c@savededitor=\count189
+\c@editora=\count190
+\c@savededitora=\count191
+\c@editorb=\count192
+\c@savededitorb=\count193
+\c@editorc=\count194
+\c@savededitorc=\count195
+\c@foreword=\count196
+\c@savedforeword=\count197
+\c@holder=\count198
+\c@savedholder=\count199
+\c@introduction=\count200
+\c@savedintroduction=\count201
+\c@namea=\count202
+\c@savednamea=\count203
+\c@nameb=\count204
+\c@savednameb=\count205
+\c@namec=\count206
+\c@savednamec=\count207
 \c@translator=\count208
 \c@savedtranslator=\count209
-\c@labelname=\count210
-\c@savedlabelname=\count211
-\c@institution=\count212
-\c@savedinstitution=\count213
-\c@lista=\count214
-\c@savedlista=\count215
-\c@listb=\count216
-\c@savedlistb=\count217
-\c@listc=\count218
-\c@savedlistc=\count219
-\c@listd=\count220
-\c@savedlistd=\count221
-\c@liste=\count222
-\c@savedliste=\count223
-\c@listf=\count224
-\c@savedlistf=\count225
-\c@location=\count226
-\c@savedlocation=\count227
-\c@organization=\count228
-\c@savedorganization=\count229
-\c@origlocation=\count230
-\c@savedoriglocation=\count231
-\c@origpublisher=\count232
-\c@savedorigpublisher=\count233
+\c@shortauthor=\count210
+\c@savedshortauthor=\count211
+\c@shorteditor=\count212
+\c@savedshorteditor=\count213
+\c@labelname=\count214
+\c@savedlabelname=\count215
+\c@institution=\count216
+\c@savedinstitution=\count217
+\c@lista=\count218
+\c@savedlista=\count219
+\c@listb=\count220
+\c@savedlistb=\count221
+\c@listc=\count222
+\c@savedlistc=\count223
+\c@listd=\count224
+\c@savedlistd=\count225
+\c@liste=\count226
+\c@savedliste=\count227
+\c@listf=\count228
+\c@savedlistf=\count229
+\c@location=\count230
+\c@savedlocation=\count231
+\c@organization=\count232
+\c@savedorganization=\count233
 Normal \count register pool exhausted, switching to extended pool.
-\c@publisher=\count277
-\c@savedpublisher=\count278
-\c@language=\count279
-\c@savedlanguage=\count280
-\c@pageref=\count281
-\c@savedpageref=\count282
+\c@origlocation=\count277
+\c@savedoriglocation=\count278
+\c@origpublisher=\count279
+\c@savedorigpublisher=\count280
+\c@publisher=\count281
+\c@savedpublisher=\count282
+\c@language=\count283
+\c@savedlanguage=\count284
+\c@pageref=\count285
+\c@savedpageref=\count286
+\shorthandwidth=\skip62
+\shortjournalwidth=\skip63
+\shortserieswidth=\skip64
+\shorttitlewidth=\skip65
+\shortauthorwidth=\skip66
+\shorteditorwidth=\skip67
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2013/11/25 v2.8a biblatex compatibility (PK/JW/AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\blx-compat.def
+File: blx-compat.def 2015/04/19 v3.0 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.def
 File: biblatex.def 
-\c@textcitecount=\count283
-\c@textcitetotal=\count284
-\c@textcitemaxnames=\count285
-\c@biburlnumpenalty=\count286
-\c@biburlucpenalty=\count287
-\c@biburllcpenalty=\count288
-\c@smartand=\count289
+\c@textcitecount=\count287
+\c@textcitetotal=\count288
+\c@textcitemaxnames=\count289
+\c@biburlnumpenalty=\count290
+\c@biburlucpenalty=\count291
+\c@biburllcpenalty=\count292
+\c@smartand=\count293
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear-icomp'...
 Package biblatex Info: ... file 'authoryear-icomp.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear-icomp.bbx
-File: authoryear-icomp.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/
-AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\authoryear-i
+comp.bbx
+File: authoryear-icomp.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/A
+B)
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\authoryear.b
+bx
+File: authoryear.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count290
-\c@bbx:relatedtotal=\count291
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\bbx\standard.bbx
+File: standard.bbx 2015/04/19 v3.0 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count294
+\c@bbx:relatedtotal=\count295
 )))
 Package biblatex Info: Trying to load citation style 'authoryear-icomp'...
 Package biblatex Info: ... file 'authoryear-icomp.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear-icomp.cbx
-File: authoryear-icomp.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\cbx\authoryear-i
+comp.cbx
+File: authoryear-icomp.cbx 2015/04/19 v3.0 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -699,106 +741,78 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\biblatex.cfg
 File: biblatex.cfg 
 )))
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
-File: ngerman.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\ngerman.lbx
+File: ngerman.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2013/11/25 v2.8a biblatex localization (PK/JW/AB)
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\latex\biblatex\lbx\german.lbx
+File: german.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 ))
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count292
-\@quotereset=\count293
-(./typeinst.aux)
-\openout1 = `typeinst.aux'.
+\@quotelevel=\count296
+\@quotereset=\count297
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\typeinst.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
- (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+(C:\Users\Daemon\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen136
-\scratchbox=\box56
-\nofMPsegments=\count295
-\nofMParguments=\count296
+\scratchcounter=\count298
+\scratchdimen=\dimen138
+\scratchbox=\box57
+\nofMPsegments=\count299
+\nofMParguments=\count300
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen137
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen139
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
 \everyMPtoPDFconversion=\toks28
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `typeinst.bcf'.
-
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'typeinst.bbl' found.
 
-(./typeinst.bbl)
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
-LaTeX Font Info:    Try loading font information for U+msa on input line 74.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+Package biblatex Warning: File 'typeinst.bbl' is wrong format version - expecte
+d 2.5.
+
+Package biblatex Info: ... file 'typeinst.bbl' found.
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\typeinst.bbl")
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
+LaTeX Font Info:    Try loading font information for U+msa on input line 78.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 74.
+LaTeX Font Info:    Try loading font information for U+msb on input line 78.
 
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./content/abstract.tex
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\abstract.tex"
 Overfull \hbox (11.53946pt too wide) in paragraph at lines 4--5
 []\OT1/cmr/m/n/9 Das Ge-setz zur F[]orderung des elek-tro-ni-schen Rechts-
  []
@@ -806,10 +820,10 @@ Overfull \hbox (11.53946pt too wide) in paragraph at lines 4--5
 
 Overfull \hbox (1.16048pt too wide) in paragraph at lines 6--7
 []\OT1/cmr/m/n/9 F[]ur Rechts-anw[]alte be-deu-tet dies, dass Schrifts[]atze be
-i Ge-richt aus-schlie^^Y-
+i Ge-richt aus-schlie-
  []
 
-) (./content/introduction.tex
+) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\introduction.tex"
 Overfull \hbox (14.97417pt too wide) in paragraph at lines 4--6
 \OT1/cmr/m/n/10 F[]orderung des elek-tro-ni-schen Rechts-ver-kehrs mit den Ge-r
 ich-ten (ERV-F[]ordergesetz)
@@ -818,7 +832,7 @@ ich-ten (ERV-F[]ordergesetz)
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{C:/Users/Daemon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Overfull \hbox (0.71036pt too wide) in paragraph at lines 15--16
 \OT1/cmr/m/n/10 stellt. Da-bei wer-den ins-be-son-de-re die Be-grif-fe Elek-tro
 -ni-sches []Ubermittlungswege,
@@ -830,9 +844,10 @@ Overfull \hbox (10.93259pt too wide) in paragraph at lines 15--16
 -wie das Elek-tro-ni-sche Schutz-
  []
 
-[2]) (./content/law.tex
+[2]) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\law.tex"
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 4.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
@@ -849,22 +864,308 @@ Overfull \hbox (7.79375pt too wide) in paragraph at lines 6--7
  In-te-grit[]at des []ubermittelten
  []
 
-[3] [4] [5]) (./content/anwalt.tex
+[3] [4] [5])
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\anwalt.tex"
 LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 12.
- [6] [7]
+ [6]
+[7]
 Overfull \hbox (1.65402pt too wide) in paragraph at lines 50--51
  \OT1/cmr/bx/n/10 Lang-zeit-ar-chi-vie-rung \OT1/cmr/m/n/10 Die oben-ge-nann-te
 n An-for-de-run-gen m[]ussen von der erst-
  []
 
-) (./content/technic.tex [8]
+) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\beA\egvp.tex"
+
+LaTeX Warning: Citation 'bea:egvp:landkarte' on page 8 undefined on input line 
+4.
+
+
+LaTeX Warning: Citation 'bea:egvp:landkarte' on page 8 undefined on input line 
+4.
+
+
+LaTeX Warning: Citation 'bea:egvp' on page 8 undefined on input line 6.
+
+
+LaTeX Warning: Citation 'bea:egvp' on page 8 undefined on input line 6.
+
+) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\beA\demail.tex"
+Overfull \hbox (3.41861pt too wide) in paragraph at lines 2--1
+\OT1/cmr/m/n/10 Nachrichten, die []uber den EGVP-Client ver-sen-det wer-den, un
+-ter-lie-gen dem OSCI-
+ []
+
+
+Overfull \hbox (3.18257pt too wide) in paragraph at lines 2--1
+\OT1/cmr/m/n/10 von Nach-rich-ten bei der De-Mail, Ende-zu-Ende ver-schl[]ussel
+t. Mit der Einf[]uhrung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--1
+
+ []
+
+[8]
+
+LaTeX Warning: Citation 'bea:demail' on page 9 undefined on input line 2.
+
+
+LaTeX Warning: Citation 'bea:demail' on page 9 undefined on input line 2.
+
+[9]
+Overfull \hbox (1.90475pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/n/10 ver-schi-cken. Da-durch er-hal-ten sie ei-ne qua-li-fi-ziert si
+-gnier-te Best[]atigung, wann
+ []
+
+
+Overfull \hbox (6.18251pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 get[]atigt. Im Post-fach des Empf[]angers wer-den die Nach-rich
+-ten nur ver-schl[]usselt
+ []
+
+
+LaTeX Warning: Citation 'bea:demail:ccc' on page 10 undefined on input line 13.
+
+
+
+LaTeX Warning: Citation 'bea:demail:ccc' on page 10 undefined on input line 13.
+
+
+
+LaTeX Warning: Citation 'bea:demail:brokenbydesign' on page 10 undefined on inp
+ut line 14.
+
+
+LaTeX Warning: Citation 'bea:demail:brokenbydesign' on page 10 undefined on inp
+ut line 14.
+
+
+LaTeX Warning: Citation 'bea:demail' on page 10 undefined on input line 15.
+
+
+Overfull \hbox (16.37697pt too wide) in paragraph at lines 11--16
+\OT1/cmr/m/n/10 Weiterhin muss le-dig-lich beim Er-stel-len des De-Mail-Account
+s ein Iden-tit[]atsnachweis
+ []
+
+
+Overfull \hbox (40.4817pt too wide) in paragraph at lines 11--16
+\OT1/cmr/m/n/10 rung, sprich Ko-pie-ren der SIM-Karte, an-ge-grif-fen wer-den. 
+[][] 
+ []
+
+[10]
+
+LaTeX Warning: Citation 'bea:demail:bullshit' on page 11 undefined on input lin
+e 21.
+
+
+LaTeX Warning: Citation 'bea:demail:bullshit' on page 11 undefined on input lin
+e 21.
+
+
+Overfull \hbox (22.10689pt too wide) in paragraph at lines 21--22
+\OT1/cmr/m/n/10 schen Diens-ten zu erm[]oglichen, deut-sche B[]urger aus-zu-sp[
+]ahen.''[][] 
+ []
+
+) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\beA\beA.tex"
+
+LaTeX Warning: Citation 'bea:bea:praxis:qa' on page 11 undefined on input line 
+2.
+
+
+LaTeX Warning: Citation 'bea:bea:praxis:qa' on page 11 undefined on input line 
+2.
+
+[11] [12]
+Overfull \hbox (6.09926pt too wide) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 li-fi-ziert elek-tro-nisch si-gniert oder []uber einen an-de-re
+n ''si-che-ren []Ubermittlungsweg''
+ []
+
+
+Overfull \hbox (3.37593pt too wide) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 Laut ZPO \OMS/cmsy/m/n/10 x\OT1/cmr/m/n/10 130d wird die be-rei
+ts zu-vor an-ge-spro-che-ne Nut-zungs-pflicht f[]ur Rechts-
+ []
+
+
+LaTeX Warning: Citation 'bea:bea:brak2/2015' on page 13 undefined on input line
+ 43.
+
+
+Overfull \hbox (45.05008pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 Der fol-gen-de Zeit-plan ist aus dem BRAK-Ma-ga-zin 2/2015, Apr
+il 2015[]
+ []
+
+[13]
+Overfull \hbox (7.46024pt too wide) in paragraph at lines 45--46
+[]\OT1/cmr/bx/n/10 2016: \OT1/cmr/m/n/10 Am 1.1.2016 wird das beA-System mit et
+-wa 165.000 An-walts-postf[]achern
+ []
+
+
+Overfull \hbox (3.00204pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/10 das Ge-setz-ge-bungs-ver-fah-ren zur Einf[]uhrung der elek-tro-
+ni-schen Ak-te im Straf-
+ []
+
+
+LaTeX Warning: Citation 'bea:bea:brak3/2015' on page 14 undefined on input line
+ 53.
+
+
+LaTeX Warning: Citation 'bea:bea:brak3/2015' on page 14 undefined on input line
+ 53.
+
+
+Overfull \hbox (18.54385pt too wide) in paragraph at lines 53--55
+\OT1/cmr/m/n/10 tro-ni-sche Si-gna-tu-ren mit. Wei-ter-hin sind die Funk-tio-na
+-lit[]aten an die An-waltst[]atigkeit
+ []
+
+<beA-ui1.png, id=54, 1014.03844pt x 756.57657pt>
+File: beA-ui1.png Graphic file (type png)
+ <use beA-ui1.png>
+Package pdftex.def Info: beA-ui1.png used on input line 57.
+(pdftex.def)             Requested size: 347.12354pt x 258.98738pt.
+
+Underfull \vbox (badness 2846) has occurred while \output is active []
+
+ [14]
+
+LaTeX Warning: Citation 'bea:bea:brak3/2015' on page 15 undefined on input line
+ 62.
+
+[15 <A:/Eigene Dateien/Git/dakjdaldk/zusammenfassung/beA-ui1.png>]
+
+LaTeX Warning: Citation 'bea:osci' on page 16 undefined on input line 66.
+
+
+LaTeX Warning: Citation 'bea:osci' on page 16 undefined on input line 66.
+
+<beA-ui2.png, id=61, 360.59718pt x 607.51968pt>
+File: beA-ui2.png Graphic file (type png)
+ <use beA-ui2.png>
+Package pdftex.def Info: beA-ui2.png used on input line 71.
+(pdftex.def)             Requested size: 170.09244pt x 286.56325pt.
+
+<beA-ui3.png, id=62, 363.60844pt x 581.92406pt>
+File: beA-ui3.png Graphic file (type png)
+ <use beA-ui3.png>
+Package pdftex.def Info: beA-ui3.png used on input line 72.
+(pdftex.def)             Requested size: 170.09244pt x 272.22571pt.
+
+
+LaTeX Warning: Citation 'bea:bea:brak3/2015' on page 16 undefined on input line
+ 80.
+
+
+LaTeX Warning: Citation 'bea:bea:brak3/2015' on page 16 undefined on input line
+ 84.
+
+
+Overfull \hbox (19.94649pt too wide) in paragraph at lines 79--85
+\OT1/cmr/m/n/10 ver-zeich-nis, in dem al-le Ge-rich-te, Rechts-anw[]alte, Kam-m
+ern und sons-ti-gen Empf[]anger,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--85
+
+ []
+
+[16] [17 <A:/Eigene Dateien/Git/dakjdaldk/zusammenfassung/beA-ui2.png> <A:/Eige
+ne Dateien/Git/dakjdaldk/zusammenfassung/beA-ui3.png>]
+Overfull \hbox (2.43251pt too wide) in paragraph at lines 90--92
+\OT1/cmr/m/n/10 die so-ge-nann-te Ende-zu-Ende-Verschl[]usselung ei-ner beA-Nac
+hricht gew[]ahrleistet.
+ []
+
+[18]
+Overfull \hbox (15.59924pt too wide) in paragraph at lines 102--103
+[]\OT1/cmr/m/n/10 OSCI-Transport f[]ur die si-che-re, ver-trau-li-che und recht
+s-ver-bind-li-che []Ubertragung
+ []
+
+[19]
+
+LaTeX Warning: Citation 'bea:osci' on page 20 undefined on input line 103.
+
+
+Overfull \hbox (5.34927pt too wide) in paragraph at lines 103--104
+\OT1/cmr/m/n/10 tausch fach-li-cher In-halts-da-ten auf XML-Basis zwi-schen Kun
+-den und Beh[]orden
+ []
+
+
+Overfull \hbox (1.21019pt too wide) in paragraph at lines 114--120
+\OT1/cmr/m/n/10 Durch den elek-tro-ni-schen Rechts-ver-kehr muss ei-ne ste-te E
+r-reich-bar-keit der Diens-
+ []
+
+
+Overfull \hbox (8.2937pt too wide) in paragraph at lines 114--120
+\OT1/cmr/m/n/10 te gew[]ahrleistet wer-den, da-mit auch be-stimm-te Fris-ten ei
+n-ge-hal-ten wer-den k[]onnen.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--120
+
+ []
+
+[20]
+
+LaTeX Warning: Citation 'bea:bea:brak' on page 21 undefined on input line 125.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+
+ []
+
+
+LaTeX Warning: Citation 'bea:bea:brak' on page 21 undefined on input line 135.
+
+[21] [22]
+
+LaTeX Warning: Citation 'bea:schutzschriftenregister' on page 23 undefined on i
+nput line 145.
+
+
+Overfull \hbox (0.26588pt too wide) in paragraph at lines 145--146
+\OT1/cmr/m/n/10 ''Schutzschriften sind vor-beu-gen-de Ver-tei-di-gungs-schrifts
+[]atze ge-gen er-war-te-te An-
+ []
+
+
+Overfull \hbox (13.44969pt too wide) in paragraph at lines 145--146
+\OT1/cmr/m/n/10 anw[]alten, aber auch bei den Ge-rich-ten ver-ur-sa-chen.'' [] 
+
+ []
+
+
+LaTeX Warning: Citation 'bea:bea:brak-schutzschriften' on page 23 undefined on 
+input line 147.
+
+) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\technic.tex"
+[23]
 Overfull \hbox (10.32141pt too wide) in paragraph at lines 14--15
 \OT1/cmr/m/n/10 so-dass sie da-nach z.B. ihr Pass-wort ein-ge-ben, ob-wohl sie 
 nicht mit dem gew[]unschten
  []
 
-[9]
+[24]
 Overfull \hbox (9.04385pt too wide) in paragraph at lines 41--42
 \OT1/cmr/m/n/10 ti-gun-gen gel-ten k[]onnen. Es wur-de 1971 von But-ler W. Lamp
 -son ein-gef[]uhrt(Quelle). 
@@ -886,7 +1187,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--48
 
  []
 
-[10] [11]
+[25] [26] [27]
 Underfull \hbox (badness 10000) in paragraph at lines 79--85
 
  []
@@ -896,7 +1197,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--107
 
  []
 
-[12]
+[28]
 Underfull \hbox (badness 10000) in paragraph at lines 139--147
 
  []
@@ -916,7 +1217,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--147
 
  []
 
-[13]
+
 Underfull \hbox (badness 10000) in paragraph at lines 153--160
 
  []
@@ -932,45 +1233,83 @@ LaTeX Warning: Command \textendash invalid in math mode on input line 165.
 
 LaTeX Warning: Command \textendash invalid in math mode on input line 165.
 
-) (./content/solution.tex) (./content/fazit.tex) [14]
-Overfull \hbox (8.68262pt too wide) in paragraph at lines 94--94
+) ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\solution.tex")
+("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\content\fazit.tex") [29]
+Overfull \hbox (8.68262pt too wide) in paragraph at lines 102--102
 \OT1/cmr/m/n/10 gew[]ahrungsanspruch des B[]urgers als prak-ti-scher und theo-r
 e-ti-scher St[]orfaktor?''
  []
 
-[15] (./typeinst.aux)
-Package logreq Info: Writing requests to 'typeinst.run.xml'.
-\openout1 = `typeinst.run.xml'.
 
+LaTeX Warning: Citation 'bea:egvp' undefined on input line 116.
+
+
+LaTeX Warning: Citation 'bea:egvp:landkarte' undefined on input line 117.
+
+
+LaTeX Warning: Citation 'bea:demail' undefined on input line 118.
+
+
+LaTeX Warning: Citation 'bea:demail:brokenbydesign' undefined on input line 119
+.
+
+
+LaTeX Warning: Citation 'bea:demail:ccc' undefined on input line 120.
+
+
+LaTeX Warning: Citation 'bea:demail:bullshit' undefined on input line 121.
+
+
+LaTeX Warning: Citation 'bea:bea:praxis:qa' undefined on input line 122.
+
+
+LaTeX Warning: Citation 'bea:bea:brak2/2015' undefined on input line 123.
+
+
+LaTeX Warning: Citation 'bea:bea:brak3/2015' undefined on input line 124.
+
+
+LaTeX Warning: Citation 'bea:osci' undefined on input line 125.
+
+[30] ("A:\Eigene Dateien\Git\dakjdaldk\zusammenfassung\typeinst.aux")
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                typeinst
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'typeinst.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 8728 strings out of 493304
- 136736 string characters out of 6139871
- 560998 words of memory out of 5000000
- 12020 multiletter control sequences out of 15000+600000
- 11682 words of font info for 45 fonts, out of 8000000 for 9000
- 961 hyphenation exceptions out of 8191
- 44i,15n,60p,1437b,1562s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on typeinst.pdf (15 pages, 243278 bytes).
+ 8946 strings out of 493921
+ 143797 string characters out of 3150487
+ 585737 words of memory out of 3000000
+ 12063 multiletter control sequences out of 15000+200000
+ 11682 words of font info for 45 fonts, out of 3000000 for 9000
+ 845 hyphenation exceptions out of 8191
+ 44i,15n,60p,2050b,1765s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb
+><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on typeinst.pdf (30 pages, 2378269 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
+ 169 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
