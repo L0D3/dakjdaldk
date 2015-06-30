@@ -1,0 +1,4 @@
+[1] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is 'typeinst.blg'
+[84] biber:275> INFO - === Sa Jun 27, 2015, 15:01:55
+[85] Biber.pm:333> INFO - Reading 'typeinst.bcf'
