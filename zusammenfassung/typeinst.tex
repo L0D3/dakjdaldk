@@ -44,14 +44,18 @@
 \noindent\keywordname\enspace\ignorespaces#1}
 
 \begin{document}
-
+\setcounter{tocdepth}{2}
+\makeatletter
+\renewcommand*\l@author[2]{}
+\renewcommand*\l@title[2]{}
+\makeatletter
 \mainmatter  % start of an individual contribution
 
 % first the title is needed
 \title{Rechtliche und technische Aspekte der E-Akte in der Anwaltschaft}
 
 % a short form should be given in case it is too long for the running head
-\titlerunning{Aspekte der E-Akte in der Anwaltschaft}
+\titlerunning{Rechtliche und technische Aspekte der E-Akte in der Anwaltschaft}
 
 % the name(s) of the author(s) follow(s) next
 %
@@ -59,8 +63,8 @@
 % their surnames. This ensures that the names appear correctly in
 % the running heads and the author index.
 %
-\author{Johannes Lahann}%
-%
+\author{Andreas Busche \& Johannes Lahann}%
+
 \authorrunning{}
 % (feature abused for this document to repeat the title also on left hand pages)
 
@@ -75,11 +79,15 @@
 % "llncs.dem" accompanies the document class "llncs.cls".
 %
 
-\toctitle{Lecture Notes in Computer Science}
-\tocauthor{Authors' Instructions}
 \maketitle
 
 \input{./content/abstract}
+\newpage
+\tableofcontents
+\newpage
+% make a proper TOC despite llncs
+
+
 \input{./content/introduction}
 \input{./content/law}
 \input{./content/anwalt}
