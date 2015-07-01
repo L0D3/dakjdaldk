@@ -1,0 +1,109 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\contentsline {title}{Rechtliche und technische Aspekte der E-Akte in der Anwaltschaft}{1}
+\defcounter {refsection}{0}\relax 
+\authcount {1}
+\defcounter {refsection}{0}\relax 
+\contentsline {author}{Andreas Busche \& Johannes Lahann}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Gesetz zur F\IeC {\"o}rderung des elektronischen Rechtsverkehrs mit den Gerichten}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Elektronisches Anwaltspostfach, \IeC {\textsection } 31a BRAO}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Elektronische \IeC {\"U}bermittlungswege, \IeC {\textsection } 130a ZPO}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Elektronische Dokumente, \IeC {\textsection } 174 ZPO}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Elektronische Formulare, \IeC {\textsection } 130c ZPO}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Elektronisches Schutzschriftenregister, \IeC {\textsection } 945a Abs. 1 ZPO}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Auswirkungen der elektronischen Akte auf die Anwaltskanzlei}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Vorgang}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Anforderungen}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Besonderes elektronisches Anwaltspostfach \IeC {\textsection } 31a Brao}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Elektronische Dokumente}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}EGVP}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}De-Mail}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Besonderes elektronisches Anwaltspostfach}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}Rechtliche Rahmenbedingungen}{12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}Zeitplan}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Umsetzung des beA}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4}Wie werden Nachrichten versendet?}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5}Nachrichten versenden und weiterbearbeiten}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.6}Sicherheitstechnische Mittel}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ende-zu-Ende-Verschl\IeC {\"u}sselung}{19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Sicherheitskarte}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{S.A.F.E.}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{OSCI}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Erstanmeldung}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.7}Das beA in der Praxis}{21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Anw\IeC {\"a}lte}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.8}Kanzleien}{23}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.9}Schutzschriftenregister}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.10}Besonderes elektronisches Notarpostfach}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Technische Aspekte}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Multi-factor authentication}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mutual authentication}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Shared Secrets (Passwords)}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{One time passwords (otp)}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{SSL/TLS Protokoll}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Voraussetzung}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Zugriffssteuerungsmatrix}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Rollenbasierte Zugriffskontrolle}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Milit\IeC {\"a}r Sicherheitsbestimmung}{27}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Bell-LaPdula Modell}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Conditional Policies}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Biba Modell}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Separation of duty}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Chinese Wall Policy}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Principle of Least Privilege}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Gesetzliche Normen}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{RSA}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{DSA}{30}

@@ -1,0 +1,87 @@
+
+@online{bea:egvp,
+	ALTauthor = {Henning Zander},
+	title = {Das Postfach, das kein Postfach ist},
+	year = {2015},
+	url = {http://www.lto.de/recht/kanzleien-unternehmen/k/bea-elektronisches-anwaltspostfach-januar-2016-verpflichtend-spaestens-bis-2022}
+}
+
+@online{bea:egvp:landkarte,
+	title = {Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016},
+	year = {2015},
+	url = {http://www.egvp.de}
+}
+
+@online{bea:demail,
+	title = {De-Mail},
+	year = {2015},
+	url = {https://de.wikipedia.org/wiki/De-Mail}
+}
+
+@online{bea:demail:brokenbydesign,
+	title = {De-Mail - Broken by Design},
+	year = {2015},
+	url = {http://hasi.it/wiki/images/a/ab/De-Mail_Broken_By_Design.pdf}
+}
+
+@online{bea:demail:ccc,
+	title = {Stellungnahme zur De-Mail},
+	year = {2015},
+	url = {http://ccc.de/system/uploads/126/original/stellungnahme-demail2013.pdf}
+}
+
+@online{bea:demail:bullshit,
+	title = {Bullshit made in Germany},
+	year = {2015},
+	url = {http://www.zeit.de/digital/datenschutz/2013-12/30c3-ccc-de-mail-neumann/komplettansicht}
+}
+
+@online{bea:bea:praxis:qa,
+	title = {Q & A – Fragen und Antworten zum ERV},
+	year = {2015},
+	url = {http://www.ra-micro.de/erv-faq}	
+}
+
+@online{bea:bea:brak,
+	title = {beA - Das besondere elektronische Anwaltspostfach},
+	year = {2015},
+	url = {http://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach}
+}
+
+@online{bea:bea:brak-schutzschriften,
+	title = {Elektronisches Schutzschriftenregister},
+	year = {2015},
+	url = {http://www.brak.de/zur-rechtspolitik/newsletter/nachrichten-aus-berlin/2015/ausgabe-5-2015-v-06032015.news.html#hl57218}
+}
+
+@periodical{bea:bea:brak2/2015,
+	ALTauthor = {BRAK},
+	ALTeditor = {BRAK},
+	title = {BRAKMagazin 2/2015},
+	OPTsubtitle = {beA bekommt Gesicht – Neues vom elektronischen Anwaltspostfach}
+	date = {April 2015},
+	OPTurl = {http://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach/brakmagazin-2-2015},
+	OPTurldate = {25.06.2015}
+}
+
+@periodical{bea:bea:brak3/2015,
+	ALTauthor = {BRAK},
+	ALTeditor = {BRAK},
+	title = {BRAKMagazin 3/2015},
+	OPTsubtitle = {beA = E-Mail+}
+	date = {Juni 2015},
+	OPTurl = {http://www.brak-mitteilungen.de/media/BRAKMagazin_3_2015.pdf},
+	OPTurldate = {25.06.2015}
+}
+
+@online{bea:osci,
+	title = {Online Services Computer Interface},
+	year = {2015},
+	url = {https://de.wikipedia.org/wiki/Online_Services_Computer_Interface}
+}
+
+@online{bea:schutzschriftenregister,
+	title = {News: Verordnung über das elektronische Schutzschriftenregister (SRV)},
+	year = {2015},
+	url = {http://www.jura.uni-saarland.de/news/newseintrag/?tx_ttnews%5Btt_news%5D=39073&tx_ttnews%5BbackPid%5D=63&cHash=3428379891553c6d2e0ab58bd52d5ad1}
+}

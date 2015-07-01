@@ -57,6 +57,17 @@
       \endverb
       \keyw{access control models,authorization constraints,constraints specification,role-based access control}
     \endentry
+    \entry{bea:egvp:landkarte}{online}{}
+      \field{sortinit}{Ä}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016}
+      \field{title}{Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.egvp.de
+      \endverb
+    \endentry
     \entry{Gesetzfoerderungrechtsverkehr}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
@@ -109,12 +120,12 @@
       \field{sortinit}{B}
       \field{labelyear}{2006}
       \field{datelabelsource}{}
-      \field{labeltitle}{Cryptanalysis and improvement on batch verifying multiple \{RSA\} digital signatures}
+      \field{labeltitle}{Cryptanalysis and improvement on batch verifying multiple RSA digital signatures}
       \field{issn}{0096-3003}
       \field{journaltitle}{Applied Mathematics and Computation}
       \field{note}{Special issue for The Beijing-HK Scientific Computing Meetings}
       \field{number}{2}
-      \field{title}{Cryptanalysis and improvement on batch verifying multiple \{RSA\} digital signatures}
+      \field{title}{Cryptanalysis and improvement on batch verifying multiple RSA digital signatures}
       \field{volume}{172}
       \field{year}{2006}
       \field{pages}{1195\bibrangedash 1200}
@@ -125,6 +136,17 @@
       \verb http://www.sciencedirect.com/science/article/pii/S0096300305002869
       \endverb
       \keyw{Batch verifying}
+    \endentry
+    \entry{bea:bea:brak}{online}{}
+      \field{sortinit}{b}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{beA - Das besondere elektronische Anwaltspostfach}
+      \field{title}{beA - Das besondere elektronische Anwaltspostfach}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach
+      \endverb
     \endentry
     \entry{Bertino:1999:SEA:300830.300837}{article}{}
       \name{labelname}{3}{}{%
@@ -166,6 +188,31 @@
       \endverb
       \keyw{access control,authorization constraints,role and user planning}
     \endentry
+    \entry{bea:bea:brak2/2015}{periodical}{}
+      \field{sortinit}{B}
+      \field{labelyear}{nodate}
+      \field{labeltitle}{BRAKMagazin 2/2015}
+      \field{title}{BRAKMagazin 2/2015}
+      \warn{\item Datamodel: Entry 'bea:bea:brak2/2015' (eakte.bib): Invalid format 'April 2015' of date field 'date' - ignoring}
+    \endentry
+    \entry{bea:bea:brak3/2015}{periodical}{}
+      \field{sortinit}{B}
+      \field{labelyear}{nodate}
+      \field{labeltitle}{BRAKMagazin 3/2015}
+      \field{title}{BRAKMagazin 3/2015}
+      \warn{\item Datamodel: Entry 'bea:bea:brak3/2015' (eakte.bib): Invalid format 'Juni 2015' of date field 'date' - ignoring}
+    \endentry
+    \entry{bea:demail:bullshit}{online}{}
+      \field{sortinit}{B}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Bullshit made in Germany}
+      \field{title}{Bullshit made in Germany}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.zeit.de/digital/datenschutz/2013-12/30c3-ccc-de-mail-neumann/komplettansicht
+      \endverb
+    \endentry
     \entry{carstens2015grundlagen}{article}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
@@ -188,17 +235,55 @@
       \field{year}{2015}
       \field{pages}{177}
     \endentry
-    \entry{eakten-anforderungen}{article}{}
-      \field{sortinit}{E}
-      \field{labelyear}{nodate}
-      \field{labeltitle}{{Elektronische Akten: Anforderungen und technische Lösungsmöglichkeiten}}
-      \field{title}{{Elektronische Akten: Anforderungen und technische Lösungsmöglichkeiten}}
+    \entry{bea:egvp}{online}{}
+      \field{sortinit}{D}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Das Postfach, das kein Postfach ist}
+      \field{title}{Das Postfach, das kein Postfach ist}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.lto.de/recht/kanzleien-unternehmen/k/bea-elektronisches-anwaltspostfach-januar-2016-verpflichtend-spaestens-bis-2022
+      \endverb
+    \endentry
+    \entry{bea:demail}{online}{}
+      \field{sortinit}{D}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{De-Mail}
+      \field{title}{De-Mail}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/De-Mail
+      \endverb
+    \endentry
+    \entry{bea:demail:brokenbydesign}{online}{}
+      \field{sortinit}{D}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{De-Mail - Broken by Design}
+      \field{title}{De-Mail - Broken by Design}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://hasi.it/wiki/images/a/ab/De-Mail_Broken_By_Design.pdf
+      \endverb
     \endentry
     \entry{elrechtsvekehranwaltszwang}{article}{}
       \field{sortinit}{E}
       \field{labelyear}{nodate}
       \field{labeltitle}{{Elektronischer Rechtsverkehr in Verfahren ohne Anwaltszwang – der Justizgewährungsanspruch des Bürgers als praktischer und theoretischer Störfaktor?}}
       \field{title}{{Elektronischer Rechtsverkehr in Verfahren ohne Anwaltszwang – der Justizgewährungsanspruch des Bürgers als praktischer und theoretischer Störfaktor?}}
+    \endentry
+    \entry{bea:bea:brak-schutzschriften}{online}{}
+      \field{sortinit}{E}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Elektronisches Schutzschriftenregister}
+      \field{title}{Elektronisches Schutzschriftenregister}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.brak.de/zur-rechtspolitik/newsletter/nachrichten-aus-berlin/2015/ausgabe-5-2015-v-06032015.news.html#hl57218
+      \endverb
     \endentry
     \entry{bundesgesetzblattmitgerichten}{article}{}
       \field{sortinit}{G}
@@ -209,6 +294,56 @@
       \field{title}{{Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten}}
       \field{volume}{Teil 1}
       \field{year}{2013}
+    \endentry
+    \entry{eakten-anforderungen}{article}{}
+      \name{labelname}{4}{}{%
+        {{uniquename=0,hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{uniquename=0,hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{22e85e466c971273ef12f7047b37f557}
+      \strng{fullhash}{5bba286b2538d9fd419b788245983a5e}
+      \field{sortinit}{L}
+      \field{labelyear}{nodate}
+      \field{labeltitle}{ELEKTRONISCHE AKTEN: ANFORDERUNGEN UND TECHNISCHE LÖSUNGSMÖGLICHKEITEN}
+      \field{title}{ELEKTRONISCHE AKTEN: ANFORDERUNGEN UND TECHNISCHE LÖSUNGSMÖGLICHKEITEN}
+    \endentry
+    \entry{bea:schutzschriftenregister}{online}{}
+      \field{sortinit}{N}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{News: Verordnung über das elektronische Schutzschriftenregister (SRV)}
+      \field{title}{News: Verordnung über das elektronische Schutzschriftenregister (SRV)}
+      \field{year}{2015}
+    \endentry
+    \entry{bea:osci}{online}{}
+      \field{sortinit}{O}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Online Services Computer Interface}
+      \field{title}{Online Services Computer Interface}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Online_Services_Computer_Interface
+      \endverb
+    \endentry
+    \entry{bea:bea:praxis:qa}{online}{}
+      \field{sortinit}{Q}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Q \& A – Fragen und Antworten zum ERV}
+      \field{title}{Q \& A – Fragen und Antworten zum ERV}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.ra-micro.de/erv-faq
+      \endverb
     \endentry
     \entry{Rivest:1983:MOD:357980.358017}{article}{}
       \name{labelname}{3}{}{%
@@ -311,6 +446,17 @@
       \field{isbn}{0-201-61599-1}
       \field{title}{Authentication: From Passwords to Public Keys}
       \field{year}{2002}
+    \endentry
+    \entry{bea:demail:ccc}{online}{}
+      \field{sortinit}{S}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labeltitle}{Stellungnahme zur De-Mail}
+      \field{title}{Stellungnahme zur De-Mail}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://ccc.de/system/uploads/126/original/stellungnahme-demail2013.pdf
+      \endverb
     \endentry
   \endsortlist
 \endrefsection
