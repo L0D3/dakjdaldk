@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.27)  1 JUL 2015 15:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.5.27)  1 JUL 2015 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -623,7 +623,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'authoryear-icomp.dbx' not found.
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count180
@@ -712,17 +712,11 @@ File: biblatex.def
 \c@biburllcpenalty=\count294
 \c@smartand=\count295
 )
-Package biblatex Info: Trying to load bibliography style 'authoryear-icomp'...
-Package biblatex Info: ... file 'authoryear-icomp.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear-icomp.bbx
-File: authoryear-icomp.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/
-AB)
-Package biblatex Info: Trying to load bibliography style 'authoryear'...
-Package biblatex Info: ... file 'authoryear.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
-File: authoryear.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -730,23 +724,22 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2013/11/25 v2.8a biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count296
 \c@bbx:relatedtotal=\count297
-)))
-Package biblatex Info: Trying to load citation style 'authoryear-icomp'...
-Package biblatex Info: ... file 'authoryear-icomp.cbx' found.
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/authoryear-icomp.cbx
-File: authoryear-icomp.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2013/11/25 v2.8a biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\footcites'.
-Package biblatex Info: Redefining '\footcitetexts'.
 Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
@@ -775,19 +768,19 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./typeinst.aux)
 \openout1 = `typeinst.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Info: Redefining \microtypecontext on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Info: Redefining \microtypecontext on input line 47.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -866,16 +859,16 @@ Package biblatex Warning: Biber reported the following issues
 Invalid format 'Juni 2015' of date field 'date' - ignoring.
 
 )
-Package biblatex Info: Reference section=0 on input line 46.
-Package biblatex Info: Reference segment=0 on input line 46.
-LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+Package biblatex Info: Reference section=0 on input line 47.
+Package biblatex Info: Reference segment=0 on input line 47.
+LaTeX Font Info:    Try loading font information for U+msa on input line 85.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+LaTeX Font Info:    Try loading font information for U+msb on input line 85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -900,7 +893,70 @@ Overfull \hbox (5.96808pt too wide) in paragraph at lines 4--5
 [2
 
 ] (./content/introduction.tex [3]) (./content/law.tex [4])
-(./content/anwalt.tex [5] [6] [7]) (./content/beA/egvp.tex [8]
+(./content/anwalt.tex [5] [6] [7] [8]) (./content/technic.tex [9]
+Underfull \hbox (badness 7925) in paragraph at lines 18--18
+ [][]\T1/cmr/m/n/9 (+20) Annie Tho-mas u.a. \T1/cmr/m/it/9 (+20) MULTI-FACTOR A
+U-THEN-TI-CA-TI-ON\T1/cmr/m/n/9 (+20) . US Pa-tent
+ []
+
+
+Overfull \hbox (6.18073pt too wide) in paragraph at lines 18--20
+ \T1/cmr/bx/n/10 4.1.1 Multi-factor au-then-ti-ca-ti-on[] \T1/cmr/m/n/10 (-20) 
+Je nach Au-then-ti-fi-zie-rungs-ver-fah-ren reicht
+ []
+
+[10] [11] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--103
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--156
+
+ []
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 161.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 161.
+
+) (./content/beA/egvp.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -921,23 +977,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--1
 
  []
 
-[9] [10] [11]) (./content/beA/beA.tex [12] [13] [14]
-<beA-ui1.png, id=59, 1014.03844pt x 756.57657pt>
+[15] [16] [17]) (./content/beA/beA.tex [18] [19] [20]
+<beA-ui1.png, id=85, 1014.03844pt x 756.57657pt>
 File: beA-ui1.png Graphic file (type png)
  <use beA-ui1.png>
 Package pdftex.def Info: beA-ui1.png used on input line 57.
 (pdftex.def)             Requested size: 347.12354pt x 258.98738pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-[16 <./beA-ui1.png>] <beA-ui2.png, id=66, 360.59718pt x 607.51968pt>
+ [21]
+[22 <./beA-ui1.png>] <beA-ui2.png, id=92, 360.59718pt x 607.51968pt>
 File: beA-ui2.png Graphic file (type png)
 
 <use beA-ui2.png>
 Package pdftex.def Info: beA-ui2.png used on input line 71.
 (pdftex.def)             Requested size: 170.09244pt x 286.56325pt.
- <beA-ui3.png, id=67, 363.60844pt x 581.92406pt>
+ <beA-ui3.png, id=93, 363.60844pt x 581.92406pt>
 File: beA-ui3.png Graphic file (type png)
 
 <use beA-ui3.png>
@@ -948,94 +1001,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
 
  []
 
-[17] [18 <./beA-ui2.png> <./beA-ui3.png>] [19]
-Underfull \vbox (badness 1237) has occurred while \output is active []
-
- [20]
+[23] [24 <./beA-ui2.png> <./beA-ui3.png>] [25] [26]
 Underfull \hbox (badness 10000) in paragraph at lines 114--120
 
  []
 
-[21]
+[27]
 Underfull \hbox (badness 10000) in paragraph at lines 127--131
 
  []
 
-[22] [23] [24]) (./content/technic.tex [25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
-
+[28] [29] [30]) (./content/solution.tex) (./content/fazit.tex) [31]
+Overfull \hbox (3.00945pt too wide) in paragraph at lines 115--115
+\T1/cmr/m/n/10 (-20) How to sign with RSA and Ra-bin''. In: \T1/cmr/m/it/10 (-2
+0) Ad-van-ces in Cryp-to-lo-gy^^VEurocrypt'96\T1/cmr/m/n/10 (-20) .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--55
-
+Overfull \hbox (18.97055pt too wide) in paragraph at lines 115--115
+\T1/cmtt/m/n/10 recht / kanzleien -[] unternehmen / k / bea -[] elektronisches 
+-[] anwaltspostfach -[]
  []
 
-[27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 86--92
-
+[32]
+Overfull \hbox (0.4696pt too wide) in paragraph at lines 115--115
+[]\T1/cmr/m/n/10 (-20) ``Gesetz zur Förderung des elektronischen Rechtsverkehrs
+ mit den Gerichten''.
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--114
-
- []
-
-[29]
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--154
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--167
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--167
-
- []
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 172.
-
-
-LaTeX Warning: Command \textendash invalid in math mode on input line 172.
-
-[30]) (./content/solution.tex) (./content/fazit.tex) [31]
-Overfull \hbox (33.32005pt too wide) in paragraph at lines 112--112
-\T1/cmtt/m/n/10 brak . de / fuer -[] anwaelte / bea -[] das -[] besondere -[] e
-lektronische -[] anwaltspostfach$\T1/cmr/m/n/10 (-20) . 
- []
-
-[32] [33] (./typeinst.aux)
+[33] (./typeinst.aux)
 Package logreq Info: Writing requests to 'typeinst.run.xml'.
 \openout1 = `typeinst.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10895 strings out of 493304
- 172338 string characters out of 6139871
- 628405 words of memory out of 5000000
- 13966 multiletter control sequences out of 15000+600000
- 25283 words of font info for 130 fonts, out of 8000000 for 9000
+ 10844 strings out of 493304
+ 171411 string characters out of 6139871
+ 625763 words of memory out of 5000000
+ 13894 multiletter control sequences out of 15000+600000
+ 26553 words of font info for 142 fonts, out of 8000000 for 9000
  961 hyphenation exceptions out of 8191
- 44i,15n,60p,2057b,2281s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,15n,61p,2057b,2293s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/
@@ -1054,7 +1060,7 @@ sr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb></us
 r/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on typeinst.pdf (33 pages, 2526868 bytes).
+Output written on typeinst.pdf (33 pages, 2535124 bytes).
 PDF statistics:
  199 PDF objects out of 1000 (max. 8388607)
  138 compressed objects within 2 object streams

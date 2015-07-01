@@ -18,15 +18,15 @@
 
 
 \refsection{0}
-  \sortlist{entry}{nyt}
+  \sortlist{entry}{nty}
     \entry{Ahn:2000:RAC:382912.382913}{article}{}
       \name{labelname}{2}{}{%
-        {{uniquename=0,hash=2a14afcb17ccca93e7a14873cb2cb10d}{Ahn}{A\bibinitperiod}{Gail-Joon}{G\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8b394aa6b9c019f6acb8ef107c588d70}{Sandhu}{S\bibinitperiod}{Ravi}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=2a14afcb17ccca93e7a14873cb2cb10d}{Ahn}{A\bibinitperiod}{Gail-Joon}{G\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b394aa6b9c019f6acb8ef107c588d70}{Sandhu}{S\bibinitperiod}{Ravi}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
-        {{uniquename=0,hash=2a14afcb17ccca93e7a14873cb2cb10d}{Ahn}{A\bibinitperiod}{Gail-Joon}{G\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=8b394aa6b9c019f6acb8ef107c588d70}{Sandhu}{S\bibinitperiod}{Ravi}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=2a14afcb17ccca93e7a14873cb2cb10d}{Ahn}{A\bibinitperiod}{Gail-Joon}{G\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b394aa6b9c019f6acb8ef107c588d70}{Sandhu}{S\bibinitperiod}{Ravi}{R\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {New York, NY, USA}%
@@ -37,9 +37,6 @@
       \strng{namehash}{f7e8c3c157b699a5eba7f7c126e98053}
       \strng{fullhash}{f7e8c3c157b699a5eba7f7c126e98053}
       \field{sortinit}{A}
-      \field{labelyear}{2000}
-      \field{labelmonth}{11}
-      \field{datelabelsource}{}
       \field{labeltitle}{Role-based Authorization Constraints Specification}
       \field{issn}{1094-9224}
       \field{journaltitle}{ACM Trans. Inf. Syst. Secur.}
@@ -59,8 +56,6 @@
     \endentry
     \entry{bea:egvp:landkarte}{online}{}
       \field{sortinit}{Ä}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016}
       \field{title}{Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016}
       \field{year}{2015}
@@ -70,17 +65,14 @@
     \endentry
     \entry{Gesetzfoerderungrechtsverkehr}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{5a844fe211869fa28e1c97dc5542cca5}
       \strng{fullhash}{5a844fe211869fa28e1c97dc5542cca5}
       \field{sortinit}{B}
-      \field{extrayear}{1}
-      \field{labelyear}{2014}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Das Gesetz zur Förderung des elektronischen Rechtsverkehr}}
       \field{number}{998-1003}
       \field{title}{{Das Gesetz zur Förderung des elektronischen Rechtsverkehr}}
@@ -88,17 +80,14 @@
     \endentry
     \entry{rechtsvekehranwaltskanzlei}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{5a844fe211869fa28e1c97dc5542cca5}
       \strng{fullhash}{5a844fe211869fa28e1c97dc5542cca5}
       \field{sortinit}{B}
-      \field{extrayear}{2}
-      \field{labelyear}{2014}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Elektronischer Rechtsverkehr in der Anwaltskanzlei}}
       \field{number}{1053-1055}
       \field{title}{{Elektronischer Rechtsverkehr in der Anwaltskanzlei}}
@@ -106,20 +95,18 @@
     \endentry
     \entry{Bao20061195}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=049fcc87e8df9eb50c116989478ae123}{Bao}{B\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=89eed912101deb72133ba7c3726c8d7c}{Lee}{L\bibinitperiod}{Cheng-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=88e080bfcae1653d8a8875f7c9b0ec64}{Hwang}{H\bibinitperiod}{Min-Shiang}{M\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=049fcc87e8df9eb50c116989478ae123}{Bao}{B\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=89eed912101deb72133ba7c3726c8d7c}{Lee}{L\bibinitperiod}{Cheng-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=88e080bfcae1653d8a8875f7c9b0ec64}{Hwang}{H\bibinitperiod}{Min-Shiang}{M\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=049fcc87e8df9eb50c116989478ae123}{Bao}{B\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=89eed912101deb72133ba7c3726c8d7c}{Lee}{L\bibinitperiod}{Cheng-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=88e080bfcae1653d8a8875f7c9b0ec64}{Hwang}{H\bibinitperiod}{Min-Shiang}{M\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=049fcc87e8df9eb50c116989478ae123}{Bao}{B\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=89eed912101deb72133ba7c3726c8d7c}{Lee}{L\bibinitperiod}{Cheng-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=88e080bfcae1653d8a8875f7c9b0ec64}{Hwang}{H\bibinitperiod}{Min-Shiang}{M\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{1a5fc0648ad4d881df0b98bd817de860}
       \strng{fullhash}{1a5fc0648ad4d881df0b98bd817de860}
       \field{sortinit}{B}
-      \field{labelyear}{2006}
-      \field{datelabelsource}{}
       \field{labeltitle}{Cryptanalysis and improvement on batch verifying multiple RSA digital signatures}
       \field{issn}{0096-3003}
       \field{journaltitle}{Applied Mathematics and Computation}
@@ -139,8 +126,6 @@
     \endentry
     \entry{bea:bea:brak}{online}{}
       \field{sortinit}{b}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{beA - Das besondere elektronische Anwaltspostfach}
       \field{title}{beA - Das besondere elektronische Anwaltspostfach}
       \field{year}{2015}
@@ -148,16 +133,37 @@
       \verb http://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach
       \endverb
     \endentry
+    \entry{bellare1996exact}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=06e2bb2f83d8b669b46db64431509301}{Bellare}{B\bibinitperiod}{Mihir}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2198941c13b8201b0e0d2127034bb263}{Rogaway}{R\bibinitperiod}{Phillip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=06e2bb2f83d8b669b46db64431509301}{Bellare}{B\bibinitperiod}{Mihir}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2198941c13b8201b0e0d2127034bb263}{Rogaway}{R\bibinitperiod}{Phillip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{817c7655f7da4865d0cb63932b8d4676}
+      \strng{fullhash}{817c7655f7da4865d0cb63932b8d4676}
+      \field{sortinit}{B}
+      \field{labeltitle}{The exact security of digital signatures-How to sign with RSA and Rabin}
+      \field{booktitle}{Advances in Cryptology—Eurocrypt’96}
+      \field{title}{The exact security of digital signatures-How to sign with RSA and Rabin}
+      \field{year}{1996}
+      \field{pages}{399\bibrangedash 416}
+    \endentry
     \entry{Bertino:1999:SEA:300830.300837}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=37b226e9d651bb9194fd7bb1cf3813cc}{Bertino}{B\bibinitperiod}{Elisa}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c37d63dd2347906ecd19f291a253696e}{Ferrari}{F\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c06b8d8a400fcfbb218ebcacfe52b4f0}{Atluri}{A\bibinitperiod}{Vijay}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=37b226e9d651bb9194fd7bb1cf3813cc}{Bertino}{B\bibinitperiod}{Elisa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c37d63dd2347906ecd19f291a253696e}{Ferrari}{F\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c06b8d8a400fcfbb218ebcacfe52b4f0}{Atluri}{A\bibinitperiod}{Vijay}{V\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=37b226e9d651bb9194fd7bb1cf3813cc}{Bertino}{B\bibinitperiod}{Elisa}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c37d63dd2347906ecd19f291a253696e}{Ferrari}{F\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=c06b8d8a400fcfbb218ebcacfe52b4f0}{Atluri}{A\bibinitperiod}{Vijay}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=37b226e9d651bb9194fd7bb1cf3813cc}{Bertino}{B\bibinitperiod}{Elisa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c37d63dd2347906ecd19f291a253696e}{Ferrari}{F\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c06b8d8a400fcfbb218ebcacfe52b4f0}{Atluri}{A\bibinitperiod}{Vijay}{V\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {New York, NY, USA}%
@@ -168,9 +174,6 @@
       \strng{namehash}{22603ffa3487a1f5193f99f278d79817}
       \strng{fullhash}{22603ffa3487a1f5193f99f278d79817}
       \field{sortinit}{B}
-      \field{labelyear}{1999}
-      \field{labelmonth}{02}
-      \field{datelabelsource}{}
       \field{labeltitle}{The Specification and Enforcement of Authorization Constraints in Workflow Management Systems}
       \field{issn}{1094-9224}
       \field{journaltitle}{ACM Trans. Inf. Syst. Secur.}
@@ -190,22 +193,18 @@
     \endentry
     \entry{bea:bea:brak2/2015}{periodical}{}
       \field{sortinit}{B}
-      \field{labelyear}{nodate}
       \field{labeltitle}{BRAKMagazin 2/2015}
       \field{title}{BRAKMagazin 2/2015}
       \warn{\item Datamodel: Entry 'bea:bea:brak2/2015' (eakte.bib): Invalid format 'April 2015' of date field 'date' - ignoring}
     \endentry
     \entry{bea:bea:brak3/2015}{periodical}{}
       \field{sortinit}{B}
-      \field{labelyear}{nodate}
       \field{labeltitle}{BRAKMagazin 3/2015}
       \field{title}{BRAKMagazin 3/2015}
       \warn{\item Datamodel: Entry 'bea:bea:brak3/2015' (eakte.bib): Invalid format 'Juni 2015' of date field 'date' - ignoring}
     \endentry
     \entry{bea:demail:bullshit}{online}{}
       \field{sortinit}{B}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Bullshit made in Germany}
       \field{title}{Bullshit made in Germany}
       \field{year}{2015}
@@ -215,10 +214,10 @@
     \endentry
     \entry{carstens2015grundlagen}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Walter de Gruyter GmbH \& Co KG}%
@@ -226,8 +225,6 @@
       \strng{namehash}{afa6489c861328159bb924d80d587892}
       \strng{fullhash}{afa6489c861328159bb924d80d587892}
       \field{sortinit}{C}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Grundlagen für eine barrierefreie IT in der Justiz}}
       \field{journaltitle}{Barrierefreie Informationssysteme: Zugänglichkeit für Menschen mit Behinderung in Theorie und Praxis}
       \field{title}{{Grundlagen für eine barrierefreie IT in der Justiz}}
@@ -237,8 +234,6 @@
     \endentry
     \entry{bea:egvp}{online}{}
       \field{sortinit}{D}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Das Postfach, das kein Postfach ist}
       \field{title}{Das Postfach, das kein Postfach ist}
       \field{year}{2015}
@@ -248,8 +243,6 @@
     \endentry
     \entry{bea:demail}{online}{}
       \field{sortinit}{D}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{De-Mail}
       \field{title}{De-Mail}
       \field{year}{2015}
@@ -259,8 +252,6 @@
     \endentry
     \entry{bea:demail:brokenbydesign}{online}{}
       \field{sortinit}{D}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{De-Mail - Broken by Design}
       \field{title}{De-Mail - Broken by Design}
       \field{year}{2015}
@@ -270,14 +261,11 @@
     \endentry
     \entry{elrechtsvekehranwaltszwang}{article}{}
       \field{sortinit}{E}
-      \field{labelyear}{nodate}
       \field{labeltitle}{{Elektronischer Rechtsverkehr in Verfahren ohne Anwaltszwang – der Justizgewährungsanspruch des Bürgers als praktischer und theoretischer Störfaktor?}}
       \field{title}{{Elektronischer Rechtsverkehr in Verfahren ohne Anwaltszwang – der Justizgewährungsanspruch des Bürgers als praktischer und theoretischer Störfaktor?}}
     \endentry
     \entry{bea:bea:brak-schutzschriften}{online}{}
       \field{sortinit}{E}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Elektronisches Schutzschriftenregister}
       \field{title}{Elektronisches Schutzschriftenregister}
       \field{year}{2015}
@@ -285,10 +273,25 @@
       \verb http://www.brak.de/zur-rechtspolitik/newsletter/nachrichten-aus-berlin/2015/ausgabe-5-2015-v-06032015.news.html#hl57218
       \endverb
     \endentry
+    \entry{eronen2005pre}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=dc2f23c3f14f9cd1c536b30807ce64ef}{Eronen}{E\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=20e6aaebacdb6f6a24fdadf59984a5a6}{Tschofenig}{T\bibinitperiod}{Hannes}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dc2f23c3f14f9cd1c536b30807ce64ef}{Eronen}{E\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=20e6aaebacdb6f6a24fdadf59984a5a6}{Tschofenig}{T\bibinitperiod}{Hannes}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9ae5b7f3ef913979043a3b6b45daef36}
+      \strng{fullhash}{9ae5b7f3ef913979043a3b6b45daef36}
+      \field{sortinit}{E}
+      \field{labeltitle}{Pre-shared key ciphersuites for transport layer security (TLS)}
+      \field{title}{Pre-shared key ciphersuites for transport layer security (TLS)}
+      \field{type}{techreport}
+      \field{year}{2005}
+    \endentry
     \entry{bundesgesetzblattmitgerichten}{article}{}
       \field{sortinit}{G}
-      \field{labelyear}{2013}
-      \field{datelabelsource}{}
       \field{labeltitle}{{Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten}}
       \field{number}{NR. 62}
       \field{title}{{Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten}}
@@ -297,36 +300,31 @@
     \endentry
     \entry{eakten-anforderungen}{article}{}
       \name{labelname}{4}{}{%
-        {{uniquename=0,hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{4}{}{%
-        {{uniquename=0,hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{22e85e466c971273ef12f7047b37f557}
       \strng{fullhash}{5bba286b2538d9fd419b788245983a5e}
       \field{sortinit}{L}
-      \field{labelyear}{nodate}
       \field{labeltitle}{ELEKTRONISCHE AKTEN: ANFORDERUNGEN UND TECHNISCHE LÖSUNGSMÖGLICHKEITEN}
       \field{title}{ELEKTRONISCHE AKTEN: ANFORDERUNGEN UND TECHNISCHE LÖSUNGSMÖGLICHKEITEN}
     \endentry
     \entry{bea:schutzschriftenregister}{online}{}
       \field{sortinit}{N}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{News: Verordnung über das elektronische Schutzschriftenregister (SRV)}
       \field{title}{News: Verordnung über das elektronische Schutzschriftenregister (SRV)}
       \field{year}{2015}
     \endentry
     \entry{bea:osci}{online}{}
       \field{sortinit}{O}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Online Services Computer Interface}
       \field{title}{Online Services Computer Interface}
       \field{year}{2015}
@@ -336,8 +334,6 @@
     \endentry
     \entry{bea:bea:praxis:qa}{online}{}
       \field{sortinit}{Q}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Q \& A – Fragen und Antworten zum ERV}
       \field{title}{Q \& A – Fragen und Antworten zum ERV}
       \field{year}{2015}
@@ -347,14 +343,14 @@
     \endentry
     \entry{Rivest:1983:MOD:357980.358017}{article}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=2d0c582d3af4de29d5eb45ead12db992}{Rivest}{R\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4428b6a70754316ea73dbc348cb52e36}{Shamir}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=eb749023efc2e82559c2ac21664a53f8}{Adleman}{A\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=2d0c582d3af4de29d5eb45ead12db992}{Rivest}{R\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=4428b6a70754316ea73dbc348cb52e36}{Shamir}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=eb749023efc2e82559c2ac21664a53f8}{Adleman}{A\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=2d0c582d3af4de29d5eb45ead12db992}{Rivest}{R\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=4428b6a70754316ea73dbc348cb52e36}{Shamir}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=eb749023efc2e82559c2ac21664a53f8}{Adleman}{A\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=2d0c582d3af4de29d5eb45ead12db992}{Rivest}{R\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=4428b6a70754316ea73dbc348cb52e36}{Shamir}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=eb749023efc2e82559c2ac21664a53f8}{Adleman}{A\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {New York, NY, USA}%
@@ -365,9 +361,6 @@
       \strng{namehash}{05e5714b02f8faa78f8f1a4278b961de}
       \strng{fullhash}{05e5714b02f8faa78f8f1a4278b961de}
       \field{sortinit}{R}
-      \field{labelyear}{1983}
-      \field{labelmonth}{01}
-      \field{datelabelsource}{}
       \field{labeltitle}{A Method for Obtaining Digital Signatures and Public-key Cryptosystems}
       \field{issn}{0001-0782}
       \field{journaltitle}{Commun. ACM}
@@ -387,10 +380,10 @@
     \endentry
     \entry{RoblingDenning:1982:CDS:539308}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=c03cd1e894384cc5a3abdc31cbbe3abb}{Robling\bibnamedelima Denning}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{Dorothy\bibnamedelima Elizabeth}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c03cd1e894384cc5a3abdc31cbbe3abb}{Robling\bibnamedelima Denning}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{Dorothy\bibnamedelima Elizabeth}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=c03cd1e894384cc5a3abdc31cbbe3abb}{Robling\bibnamedelima Denning}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{Dorothy\bibnamedelima Elizabeth}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=c03cd1e894384cc5a3abdc31cbbe3abb}{Robling\bibnamedelima Denning}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{Dorothy\bibnamedelima Elizabeth}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Boston, MA, USA}%
@@ -401,35 +394,54 @@
       \strng{namehash}{c03cd1e894384cc5a3abdc31cbbe3abb}
       \strng{fullhash}{c03cd1e894384cc5a3abdc31cbbe3abb}
       \field{sortinit}{R}
-      \field{labelyear}{1982}
-      \field{datelabelsource}{}
       \field{labeltitle}{Cryptography and Data Security}
       \field{isbn}{0-201-10150-5}
       \field{title}{Cryptography and Data Security}
       \field{year}{1982}
     \endentry
+    \entry{shin2003new}{incollection}{}
+      \name{labelname}{3}{}{%
+        {{hash=d34a48b1cca0d7f1447c7245f613d228}{Shin}{S\bibinitperiod}{Jun-Bum}{J\bibinithyphendelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=546d35a6711c97189cc903b186f2817b}{Lee}{L\bibinitperiod}{Kwangsu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=474d4e5c198d86244c7cec72a131a467}{Shim}{S\bibinitperiod}{Kyungah}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d34a48b1cca0d7f1447c7245f613d228}{Shin}{S\bibinitperiod}{Jun-Bum}{J\bibinithyphendelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=546d35a6711c97189cc903b186f2817b}{Lee}{L\bibinitperiod}{Kwangsu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=474d4e5c198d86244c7cec72a131a467}{Shim}{S\bibinitperiod}{Kyungah}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{41dfcaf340bd6f83996b2d43994f66fb}
+      \strng{fullhash}{41dfcaf340bd6f83996b2d43994f66fb}
+      \field{sortinit}{S}
+      \field{labeltitle}{New DSA-verifiable signcryption schemes}
+      \field{booktitle}{Information Security and Cryptology—ICISC 2002}
+      \field{title}{New DSA-verifiable signcryption schemes}
+      \field{year}{2003}
+      \field{pages}{35\bibrangedash 47}
+    \endentry
     \entry{smid1998digital}{article}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=7ff90222286d78fa3761285c029c964a}{Smid}{S\bibinitperiod}{Miles\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=7ff90222286d78fa3761285c029c964a}{Smid}{S\bibinitperiod}{Miles\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=7ff90222286d78fa3761285c029c964a}{Smid}{S\bibinitperiod}{Miles\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=7ff90222286d78fa3761285c029c964a}{Smid}{S\bibinitperiod}{Miles\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{7ff90222286d78fa3761285c029c964a}
       \strng{fullhash}{7ff90222286d78fa3761285c029c964a}
       \field{sortinit}{S}
-      \field{labelyear}{1998}
-      \field{datelabelsource}{}
       \field{labeltitle}{Digital Signature Standard}
       \field{title}{Digital Signature Standard}
       \field{year}{1998}
     \endentry
     \entry{Smith:2001:APP:501593}{book}{}
       \name{labelname}{1}{}{%
-        {{uniquename=0,hash=7f2aeaac91d1fba6bcfdaa59de3bccf9}{Smith}{S\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=7f2aeaac91d1fba6bcfdaa59de3bccf9}{Smith}{S\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{1}{}{%
-        {{uniquename=0,hash=7f2aeaac91d1fba6bcfdaa59de3bccf9}{Smith}{S\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=7f2aeaac91d1fba6bcfdaa59de3bccf9}{Smith}{S\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
       }
       \list{location}{1}{%
         {Boston, MA, USA}%
@@ -440,8 +452,6 @@
       \strng{namehash}{7f2aeaac91d1fba6bcfdaa59de3bccf9}
       \strng{fullhash}{7f2aeaac91d1fba6bcfdaa59de3bccf9}
       \field{sortinit}{S}
-      \field{labelyear}{2002}
-      \field{datelabelsource}{}
       \field{labeltitle}{Authentication: From Passwords to Public Keys}
       \field{isbn}{0-201-61599-1}
       \field{title}{Authentication: From Passwords to Public Keys}
@@ -449,14 +459,61 @@
     \endentry
     \entry{bea:demail:ccc}{online}{}
       \field{sortinit}{S}
-      \field{labelyear}{2015}
-      \field{datelabelsource}{}
       \field{labeltitle}{Stellungnahme zur De-Mail}
       \field{title}{Stellungnahme zur De-Mail}
       \field{year}{2015}
       \verb{url}
       \verb http://ccc.de/system/uploads/126/original/stellungnahme-demail2013.pdf
       \endverb
+    \endentry
+    \entry{thomas2015multi}{misc}{}
+      \name{labelname}{4}{}{%
+        {{hash=ee0aa7e6646c55a5475e3ad7670ccc13}{Thomas}{T\bibinitperiod}{Annie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3c8743c252a3a681144906bde41992bc}{Garg}{G\bibinitperiod}{Shalin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bc3a733b7fd3c792ec3da1a495890bac}{Bose}{B\bibinitperiod}{Sneha}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8d51341ef272d2e53f8cb4f26bffdb29}{Vallat}{V\bibinitperiod}{Sathish}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ee0aa7e6646c55a5475e3ad7670ccc13}{Thomas}{T\bibinitperiod}{Annie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3c8743c252a3a681144906bde41992bc}{Garg}{G\bibinitperiod}{Shalin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bc3a733b7fd3c792ec3da1a495890bac}{Bose}{B\bibinitperiod}{Sneha}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8d51341ef272d2e53f8cb4f26bffdb29}{Vallat}{V\bibinitperiod}{Sathish}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1d9b8a07b73515926456720b9d210cef}
+      \strng{fullhash}{9491eb5d9df4835d0ba2ee8d977fdbaa}
+      \field{sortinit}{T}
+      \field{labeltitle}{MULTI-FACTOR AUTHENTICATION}
+      \field{month}{05~21}
+      \field{note}{US Patent 20,150,143,496}
+      \field{title}{MULTI-FACTOR AUTHENTICATION}
+      \field{year}{2015}
+    \endentry
+    \entry{yang2008two}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=6700872a39055967b17c16d27e04c5ed}{Yang}{Y\bibinitperiod}{Guomin}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=cfe1203a450dc706d6e576f1efbc298c}{Wong}{W\bibinitperiod}{Duncan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7266c8f88e24dbee8bce391e02663a0b}{Wang}{W\bibinitperiod}{Huaxiong}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0bb8278480540893b039fa333b72d83c}{Deng}{D\bibinitperiod}{Xiaotie}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=6700872a39055967b17c16d27e04c5ed}{Yang}{Y\bibinitperiod}{Guomin}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=cfe1203a450dc706d6e576f1efbc298c}{Wong}{W\bibinitperiod}{Duncan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7266c8f88e24dbee8bce391e02663a0b}{Wang}{W\bibinitperiod}{Huaxiong}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0bb8278480540893b039fa333b72d83c}{Deng}{D\bibinitperiod}{Xiaotie}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{13b2253483eb0ac1ef36e93f86c66656}
+      \strng{fullhash}{5d0ec0174520c4c155c49cf141c9f200}
+      \field{sortinit}{Y}
+      \field{labeltitle}{Two-factor mutual authentication based on smart cards and passwords}
+      \field{journaltitle}{Journal of Computer and System Sciences}
+      \field{number}{7}
+      \field{title}{Two-factor mutual authentication based on smart cards and passwords}
+      \field{volume}{74}
+      \field{year}{2008}
+      \field{pages}{1160\bibrangedash 1172}
     \endentry
   \endsortlist
 \endrefsection

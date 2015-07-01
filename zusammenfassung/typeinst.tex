@@ -33,18 +33,21 @@
 \usepackage{url}    
 \usepackage[
     backend=biber,
-    style=authoryear-icomp,
+    style=numeric,
     sortlocale=de_DE,
     url=false, 
     doi=true,
     eprint=false
 ]{biblatex}
+
 \addbibresource{eakte.bib}
 \newcommand{\keywords}[1]{\par\addvspace\baselineskip
 \noindent\keywordname\enspace\ignorespaces#1}
 
 \begin{document}
 \setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+
 \makeatletter
 \renewcommand*\l@author[2]{}
 \renewcommand*\l@title[2]{}
@@ -91,12 +94,12 @@
 \input{./content/introduction}
 \input{./content/law}
 \input{./content/anwalt}
+\input{./content/technic}
 
 \input{./content/beA/egvp}
 \input{./content/beA/demail}
 \input{./content/beA/beA}
 
-\input{./content/technic}
 \input{./content/solution}
 \input{./content/fazit}
 

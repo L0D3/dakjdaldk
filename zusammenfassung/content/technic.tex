@@ -7,7 +7,7 @@ Im vorherigen Kapitel haben sich als wichtige Anforderungen an den Rechtsverkehr
 \item Datenschutz persönlicher Daten
 \end{itemize}
 Um diese Anforderungen auf technische Ebene zu gewährleisten werden verschiedene Verfahren und Konzepte der Authentifizierung, Autorisierung und zur Erstellung von digitalen Signaturen eingesetzt. Im folgenden sollen gängige Verfahren vorgestellt werden um den notwendigen  technischen Hintergrund zu schaffen. 
-\subsection*{Authentifizierung}
+\subsection{Authentifizierung}
 Es existieren viele verschiedene Authentifizierungsverfahren, welche sich in ihrer Komplexität unterscheiden. Die einfachsten Verfahren erwarten die Eingabe von Benutzername und Passwort. Allerdings gehören diese auch zu den unsichersten Verfahren. Damit eine Authentifizierung möglich ist, müssen eindeutige die Person identifizierende Eingaben vorliegen. Diese lassen sich in drei Kategorien unterscheiden.
 \begin{itemize}
 \item Wissen: Eingabe einer geheimen Information, beispielsweise ein PIN.
@@ -15,10 +15,10 @@ Es existieren viele verschiedene Authentifizierungsverfahren, welche sich in ihr
 \item Attribut: Ein Indentifikationsmerkmal der Person, beispielsweise das Augenmuster oder der Fingerabdruck eines Menschen.
 \end{itemize}
 \subsubsection{Multi-factor authentication}
-Je nach Authentifizierungsverfahren reicht die Eingabe einer Information (Single Factor Authentication) oder es müssen mehrere Faktoren eingegeben werden (Multi Factor Authentication).
+Je nach Authentifizierungsverfahren reicht die Eingabe einer Information (Single Factor Authentication) oder es müssen mehrere Faktoren eingegeben werden (Multi Factor Authentication \footfullcite{thomas2015multi}).
 Dabei kann jeder Faktor die Person eindeutig identifizieren. Damit eine Authentifizierung erfolgreich ist müssen jedoch alle Eingaben korrekt sein. Bei der Multi Factor Authentication werden aus Sicherheitsgründen Faktoren aus unterschiedlichen Kategorien gewählt. Ein typisches Beispiel ist die Authentifizierung an einem Bankautomat. Dazu ist die Eingabe eines PINS, sowie einer Bankkarte notwendig. Nur wenn beide Faktoren vorliegen und zueinander passen ist die Authentifizierung erfolgreich. 
 \subsubsection{Mutual authentication}
-erlaubt dem Benutzer zu verifizieren, dass die Authentifizierung an dem gewünschten System erfolgreich war, sodass er nur nach einer erfolgreichen Authentifizierung seine sicherheitskritischen Daten ein gibt. \textit{Phishing Attacks} zielen darauf ab, Benutzern eine Authentifizierung  vorzutäuschen, sodass sie danach z.B. ihr Passwort eingeben, obwohl sie nicht mit dem gewünschten System verbunden sind.
+erlaubt dem Benutzer zu verifizieren, dass die Authentifizierung an dem gewünschten System erfolgreich war, sodass er nur nach einer erfolgreichen Authentifizierung seine sicherheitskritischen Daten ein gibt \footfullcite{yang2008two}. \textit{Phishing Attacks} zielen darauf ab, Benutzern eine Authentifizierung  vorzutäuschen, sodass sie danach z.B. ihr Passwort eingeben, obwohl sie nicht mit dem gewünschten System verbunden sind.
 
 
 \subsubsection{Shared Secrets (Passwords)}
@@ -30,7 +30,7 @@ Ein \textit{One time password} ist ein Passwort, welches sich für jede Verwendu
 \item Bei jeder Passworteingabe wird das Passwort vom Benutzer neu generiert und vom System verifiziert. Dabei kann das Passwort z.B. eine Funktion von der aktuellen Zeit sein, welches der Benutzer und das System teilen.
 \end{itemize}
 \subsubsection{SSL/TLS Protokoll}
-SSL/TLS sind Protokolle, die für den sicheren Austausch von Informationen zwischen Client und Server genutzt werden. Im folgenden wird kurz der Vorgang eines \textit{SSL Handshake} unter Nutzung des \textit{RSA exchange} Algorithmus beschrieben:
+SSL/TLS sind Protokolle, die für den sicheren Austausch von Informationen zwischen Client und Server genutzt werden. Im folgenden wird kurz der Vorgang eines \textit{SSL Handshake} unter Nutzung des \textit{RSA exchange} Algorithmus beschrieben \footfullcite{eronen2005pre}:
 \begin{enumerate}
 \item \textit{Client Hello:} Der Client sendet für die SSL Kommunikation notwendige Informationen wie z.B. die SSL Version.
 \item \textit{Server Hello:} Der Server antwortet mit für den Client relevanten Informationen, u.a. mit dem SSl Zertifikat des Servers (Public Key).
@@ -38,52 +38,41 @@ SSL/TLS sind Protokolle, die für den sicheren Austausch von Informationen zwisc
 \item Der Server entschlüsselt den Schlüssel mit dem Private Key.
 \item Für die Session wird der Session Schlüssel zur Verschlüsselung der Kommunikation genutzt.
 \end{enumerate}	
-\subsection*{Autorisierung/Zugriffskontrolle}
-
+\subsection{Autorisierung/Zugriffskontrolle}
 Der Sinn und Zweck von Zugriffskontrolle ist die erlaubten Operationen auf einen Datensatz einzuschränken. In der Informatik beschränken Zugangsberechtigungen sowohl die erlaubten Operationen eines Nutzers als auch die eines Programms. In diesem Sinne soll Zugriffskontrolle alle Operationen, welche die Sicherheit einschränken, verhindern. Im folgenden werden verschiedene Grundsätze der Zugriffskontrolle beschrieben.
 
 \subsubsection{Voraussetzung}
 Damit Zugriffskontrolle möglich ist, muss das System den Benutzer erkennen. Dies bedeutet, dass sich der Benutzer in einem ersten Schritt in dem System anmelden muss(vgl. Authentifizierung). Vor jeder Anfrage muss erneut überprüft werden, ob der Benutzer die nötigen Berechtigungen besitzt.
-\subsubsection{Zugriffssteuerungsmatrix}
-Die Zugriffssteuerungsmatrix ist ein abstraktes Sicherheitskonzept, welches jedem Benutzer zu jedem Objekt gewisse Rechte zuweist. Das bedeutet insbesondere, dass für jedes Objekt unterschiedliche Berechtigungen gelten können. Es wurde 1971 von Butler W. Lampson eingeführt(Quelle).
 \subsubsection{Rollenbasierte Zugriffskontrolle}
-Role Based Access Control (RBAC; deutsch: Rollenbasierte Zugriffskontrolle) ist in Mehrbenutzersystemen oder Rechnernetzen ein Verfahren zur Zugriffssteuerung und -kontrolle auf Dateien oder Dienste. Das RBAC-Modell wurde 1992 von D.F. Ferraiolo und D.R. Kuhn beschrieben[1] und 2004 als ANSI-Norm 359-2004 verabschiedet.
-\\\\
-Die alternative Methode, einem realen Benutzer (User) direkt Rechte und Zugriffe auf verschiedene Systeme zu geben, stellte sich durch die steigende Zahl von Benutzern als unübersichtlich und daher fehlerträchtig dar. Das auf Benutzerrollen basierende Konzept soll nun die Rechte anhand von Arbeitsprozessen abstrahieren.
-\\\\
 Bei der rollenbasierten Zugriffskontrolle werden den Benutzern des Computers oder Netzwerks Rollen zugeordnet. Benutzer können dabei mehrere Benutzerrollen besitzen. An eine Rolle sind beispielsweise 1 bis n Gruppenzugehörigkeiten gebunden. Je nach Rollenzuordnung des Benutzers (und den damit verbundenen Gruppenzugehörigkeiten) erteilt oder sperrt das System dann das Zugriffsrecht auf Betriebsmittel. Häufig werden vor allem Lesen, Schreiben und Ausführen von Dateien mittels RBAC kontrolliert; das Verfahren ist jedoch nicht darauf beschränkt.
 
-\subsubsection{Militär Sicherheitsbestimmung}
-Das Prinzip der Militär Sicherheitsbestimmung ist es Informationen basierend auf ihrer Sicherheitsstufe zu klassifizieren. Es wird unterschieden zwischen
+\subsubsection*{Militär Sicherheitsbestimmung}
+Das Prinzip der Militär Sicherheitsbestimmung ist es Informationen basierend auf ihrer Sicherheitsstufe zu klassifizieren. Es wird unterschieden zwischen:
 \begin{itemize}
 \item unclassified
 \item restricted
 \item confidential
 \item secret 
 \item topsecret
-\end{itemize} 
-Jeder Information ist ein Tupel aus Rang und Kompartiment zugeordnet. Dabei bestimmt das Kompartment zu welchen Projekten die Information gehört. 
-Eine Person kann auf Informationen bis zu einer gewissen Sicherheitsstufe zugreifen. Die Zugangsberechtigung einer Person wird ebenfalls als Tupel aus Rang und Kompartiment dargestellt.   
-\subsubsection{Bell-LaPdula Modell}
+\end{itemize}  
+Eine Person kann auf Informationen bis zu einer gewissen Sicherheitsstufe zugreifen. 
+\subsubsection*{Bell-LaPdula Modell}
 Das \textit{Bell-LaPdula Modell} ähnelt dem \textit{Military security policy}. Zusätzlich werden unterschiedliche Schreib- und Leserechte definiert. Insbesondere kann kein Datensatz höherer Sicherheitsstufe gelesen und kein Datensatz mit niedriger Sicherheitsstufe geschrieben/bearbeitet werden.
-\subsubsection{Conditional Policies}
+\subsubsection*{Conditional Policies}
 \textit{Conditional Policies} bedeutet, dass Sicherheitskriterien zusätzlich zu den bereits genannten Punkten auch abhängig von dem aktuellen Kontext des Benutzers sein können. Beispielsweise kann der Zugang zu speziellen Daten, nur von einem bestimmten Ort und auch nur für einen gewissen Zeitraum freigeschaltet werden.
-\subsubsection{Biba Modell}
+\subsubsection*{Biba Modell}
 Das \textit{Biba Model} dient der Wahrung der Integrität. Es beinhaltet das Daten einer niedrigeren Sicherheitsstufe wie der Benutzer nicht gelesen und Daten einer höheren Sicherheitsstufe nicht geschrieben werden dürfen. Es ist damit eine Umkehrung des \textit{Bell-LaPdula Modells}.
-\subsubsection{Separation of duty}
+\subsubsection*{Separation of duty}
 Das Prinzip \textit{Separation of duty} besagt, dass für eine wichtige Aufgabe immer mehr als eine Person verantwortlich sind. Dies beinhaltet das wichtige Entscheidungen nur unter Zustimmung aller Verantwortlichen getroffen werden dürfen. Dadurch sollen sowohl Fehler als auch Machtmissbrauch verhindert werden
-\subsubsection{Chinese Wall Policy}
+\subsubsection*{Chinese Wall Policy}
 Nach dem \textit{Chinese Wall Policy} darf ein Benutzer nur auf Daten zugreifen, die nicht im Konflikt mit anderen Daten stehen, welche dem Benutzer zur Verfügung stehen. Dadurch soll ein Interessenkonflikt des Benutzers vermieden werden. 
-\subsubsection{Principle of Least Privilege}
+\subsubsection*{Principle of Least Privilege}
 Das \textit{Principle of Least Privilege} besagt, dass Personen nur auf diejenigen Daten zugreifen dürfen, die für ihre Arbeit zwingend erforderlich sind.
-\subsection*{Digitale Signaturen}
+\subsection{Digitale Signaturen}
 Eine digitale Signatur, auch digitales Signaturverfahren, ist ein asymmetrisches Kryptosystem, bei dem ein Sender mit Hilfe eines geheimen Signaturschlüssels (dem Private Key) zu einer digitalen Nachricht (d. h. zu beliebigen Daten) einen Wert berechnet, der ebenfalls digitale Signatur genannt wird. Dieser Wert ermöglicht es jedem, mit Hilfe des öffentlichen Verifikationsschlüssels (dem Public Key) die nichtabstreitbare Urheberschaft und Integrität der Nachricht zu prüfen. Um eine mit einem Signaturschlüssel erstellte Signatur einer Person zuordnen zu können, muss der zugehörige Verifikationsschlüssel dieser Person zweifelsfrei zugeordnet sein.
-
-Mit digitalen Signaturen lassen sich sichere elektronische Signaturen (fortgeschrittene elektronische Signaturen gem. § 2 Nr. 2 SigG bzw. qualifizierte elektronische Signaturen gem. § 2 Nr. 3 SigG) erzeugen. Die Begriffe digitale Signatur und elektronische Signatur sind jedoch nicht inhaltsgleich: Erstens müssen (zumindest fortgeschrittene) elektronische Signaturen nicht zwangsläufig auf digitalen Signaturen basieren; zweitens ist digitale Signatur ein mathematischer bzw. technischer Begriff, während elektronische Signatur ein juristischer Begriff ist.
-\subsubsection{Gesetzliche Normen}
-Die Bundesnetzagentur veröffentlicht jedes Jahr eine Liste mit Mindestanforderungen für kryptographische Algorithmen für die Erzeugung qualifizierter elektronischer Signaturen.[2] In der „Bekanntmachung zur elektronischen Signatur nach dem Signaturgesetz und der Signaturverordnung“ vom 18. Januar 2012 werden als geeignete digitale Signaturverfahren RSA , DSA und DSA-Varianten die auf elliptischen Kurven basierend (z. B. EC-DSA, EC-KDSA, EC-GDSA) empfohlen. Zu jedem dieser Verfahren werden die Mindestlängen für die Schlüssel sowie weitere Anforderungen an die Parameter und die Hashfunktion angegeben. [3]
+Die Bundesnetzagentur veröffentlicht jedes Jahr eine Liste mit Mindestanforderungen für kryptographische Algorithmen für die Erzeugung qualifizierter elektronischer Signaturen. In der „Bekanntmachung zur elektronischen Signatur nach dem Signaturgesetz und der Signaturverordnung“ vom 18. Januar 2012 werden als geeignete digitale Signaturverfahren RSA , DSA und DSA-Varianten empfohlen. 
 \subsubsection{RSA}
-In der modernen Kryptologie hat sich die RSA – Verschlüsslung als eine der
+In der modernen Kryptologie hat sich die RSA \footfullcite{bellare1996exact} – Verschlüsslung als eine der
 sichersten Methoden durchgesetzt. Sie wird heute in wichtigen Bereichen wie  im
 Bankenwesen (z.B. bei der Verschlüsslung von Geheimzahlen) eingesetzt.
 \\\\
@@ -125,8 +114,8 @@ werden. Entscheidend an dieser Formel ist, dass es einfach für einen Spion ist 
 bestimmen, wenn er $e$, $p$ und $q$ kennt. Es ist aber, vor allem bei großen $p$ und $q$,
 nahezu unmöglich nur durch Kenntnis der öffentlichen Schlüssel $n$ und $e$ den
 geheimen Schlüssel $d$ herauszufinden.
-\subsubsection{DSA}:
-wurde von NIST entwickelt und eignet sich speziell für Signaturen. Es ist eine Modifizierte Form des ELGamal Kryptographiesystems und basiert auf dem Problem der Diskreten Logarithmen. 
+\subsubsection{DSA}
+wurde von NIST entwickelt und eignet sich speziell für Signaturen \footfullcite{shin2003new}. Es ist eine Modifizierte Form des ELGamal Kryptographiesystems und basiert auf dem Problem der Diskreten Logarithmen. Im folgenden werden die einzelnen Schritte kurz dargestellt. \\\\
 \textit{Schlüsselerzeugung:} 
 \begin{enumerate}
 \item Erzeuge eine Primzahl $p$ der Länge $512-1024$ Bit, sodass das Diskrete
