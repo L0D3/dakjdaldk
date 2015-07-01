@@ -1,0 +1,709 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{Ahn:2000:RAC:382912.382913}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=2a14afcb17ccca93e7a14873cb2cb10d}{Ahn}{A\bibinitperiod}{Gail-Joon}{G\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b394aa6b9c019f6acb8ef107c588d70}{Sandhu}{S\bibinitperiod}{Ravi}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=2a14afcb17ccca93e7a14873cb2cb10d}{Ahn}{A\bibinitperiod}{Gail-Joon}{G\bibinithyphendelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=8b394aa6b9c019f6acb8ef107c588d70}{Sandhu}{S\bibinitperiod}{Ravi}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{f7e8c3c157b699a5eba7f7c126e98053}
+      \strng{fullhash}{f7e8c3c157b699a5eba7f7c126e98053}
+      \field{sortinit}{A}
+      \field{labeltitle}{Role-based Authorization Constraints Specification}
+      \field{issn}{1094-9224}
+      \field{journaltitle}{ACM Trans. Inf. Syst. Secur.}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Role-based Authorization Constraints Specification}
+      \field{volume}{3}
+      \field{year}{2000}
+      \field{pages}{207\bibrangedash 226}
+      \verb{doi}
+      \verb 10.1145/382912.382913
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/382912.382913
+      \endverb
+      \keyw{access control models,authorization constraints,constraints specification,role-based access control}
+    \endentry
+    \entry{bea:safe}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=35c3fa09af5cbe0c70a73be2f00c1ed7}{ATOS}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=35c3fa09af5cbe0c70a73be2f00c1ed7}{ATOS}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{35c3fa09af5cbe0c70a73be2f00c1ed7}
+      \strng{fullhash}{35c3fa09af5cbe0c70a73be2f00c1ed7}
+      \field{sortinit}{A}
+      \field{labeltitle}{Secure Access to Federated eJustice/E-Government}
+      \field{title}{Secure Access to Federated eJustice/E-Government}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://de.atos.net/content/dam/de/documents/atos-factsheet-ejustice-de.pdf
+      \endverb
+    \endentry
+    \entry{Gesetzfoerderungrechtsverkehr}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5a844fe211869fa28e1c97dc5542cca5}
+      \strng{fullhash}{5a844fe211869fa28e1c97dc5542cca5}
+      \field{sortinit}{B}
+      \field{labeltitle}{{Das Gesetz zur Förderung des elektronischen Rechtsverkehr}}
+      \field{number}{998-1003}
+      \field{title}{{Das Gesetz zur Förderung des elektronischen Rechtsverkehr}}
+      \field{year}{2014}
+    \endentry
+    \entry{rechtsvekehranwaltskanzlei}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5a844fe211869fa28e1c97dc5542cca5}{Bacher}{B\bibinitperiod}{Klaus}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5a844fe211869fa28e1c97dc5542cca5}
+      \strng{fullhash}{5a844fe211869fa28e1c97dc5542cca5}
+      \field{sortinit}{B}
+      \field{labeltitle}{{Elektronischer Rechtsverkehr in der Anwaltskanzlei}}
+      \field{number}{1053-1055}
+      \field{title}{{Elektronischer Rechtsverkehr in der Anwaltskanzlei}}
+      \field{year}{2014}
+    \endentry
+    \entry{Bao20061195}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=049fcc87e8df9eb50c116989478ae123}{Bao}{B\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=89eed912101deb72133ba7c3726c8d7c}{Lee}{L\bibinitperiod}{Cheng-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=88e080bfcae1653d8a8875f7c9b0ec64}{Hwang}{H\bibinitperiod}{Min-Shiang}{M\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=049fcc87e8df9eb50c116989478ae123}{Bao}{B\bibinitperiod}{Feng}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=89eed912101deb72133ba7c3726c8d7c}{Lee}{L\bibinitperiod}{Cheng-Chi}{C\bibinithyphendelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=88e080bfcae1653d8a8875f7c9b0ec64}{Hwang}{H\bibinitperiod}{Min-Shiang}{M\bibinithyphendelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1a5fc0648ad4d881df0b98bd817de860}
+      \strng{fullhash}{1a5fc0648ad4d881df0b98bd817de860}
+      \field{sortinit}{B}
+      \field{labeltitle}{Cryptanalysis and improvement on batch verifying multiple RSA digital signatures}
+      \field{issn}{0096-3003}
+      \field{journaltitle}{Applied Mathematics and Computation}
+      \field{note}{Special issue for The Beijing-HK Scientific Computing Meetings}
+      \field{number}{2}
+      \field{title}{Cryptanalysis and improvement on batch verifying multiple RSA digital signatures}
+      \field{volume}{172}
+      \field{year}{2006}
+      \field{pages}{1195\bibrangedash 1200}
+      \verb{doi}
+      \verb http://dx.doi.org/10.1016/j.amc.2005.03.016
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/S0096300305002869
+      \endverb
+      \keyw{Batch verifying}
+    \endentry
+    \entry{bellare1996exact}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=06e2bb2f83d8b669b46db64431509301}{Bellare}{B\bibinitperiod}{Mihir}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2198941c13b8201b0e0d2127034bb263}{Rogaway}{R\bibinitperiod}{Phillip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=06e2bb2f83d8b669b46db64431509301}{Bellare}{B\bibinitperiod}{Mihir}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2198941c13b8201b0e0d2127034bb263}{Rogaway}{R\bibinitperiod}{Phillip}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{817c7655f7da4865d0cb63932b8d4676}
+      \strng{fullhash}{817c7655f7da4865d0cb63932b8d4676}
+      \field{sortinit}{B}
+      \field{labeltitle}{The exact security of digital signatures-How to sign with RSA and Rabin}
+      \field{booktitle}{Advances in Cryptology—Eurocrypt’96}
+      \field{title}{The exact security of digital signatures-How to sign with RSA and Rabin}
+      \field{year}{1996}
+      \field{pages}{399\bibrangedash 416}
+    \endentry
+    \entry{Bertino:1999:SEA:300830.300837}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=37b226e9d651bb9194fd7bb1cf3813cc}{Bertino}{B\bibinitperiod}{Elisa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c37d63dd2347906ecd19f291a253696e}{Ferrari}{F\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c06b8d8a400fcfbb218ebcacfe52b4f0}{Atluri}{A\bibinitperiod}{Vijay}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=37b226e9d651bb9194fd7bb1cf3813cc}{Bertino}{B\bibinitperiod}{Elisa}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c37d63dd2347906ecd19f291a253696e}{Ferrari}{F\bibinitperiod}{Elena}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c06b8d8a400fcfbb218ebcacfe52b4f0}{Atluri}{A\bibinitperiod}{Vijay}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{22603ffa3487a1f5193f99f278d79817}
+      \strng{fullhash}{22603ffa3487a1f5193f99f278d79817}
+      \field{sortinit}{B}
+      \field{labeltitle}{The Specification and Enforcement of Authorization Constraints in Workflow Management Systems}
+      \field{issn}{1094-9224}
+      \field{journaltitle}{ACM Trans. Inf. Syst. Secur.}
+      \field{month}{02}
+      \field{number}{1}
+      \field{title}{The Specification and Enforcement of Authorization Constraints in Workflow Management Systems}
+      \field{volume}{2}
+      \field{year}{1999}
+      \field{pages}{65\bibrangedash 104}
+      \verb{doi}
+      \verb 10.1145/300830.300837
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/300830.300837
+      \endverb
+      \keyw{access control,authorization constraints,role and user planning}
+    \endentry
+    \entry{bea:bea:brak}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=c8e9fe85c887c2e7528f88616aa3a8da}{Bundesrechtsanwaltskammer}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c8e9fe85c887c2e7528f88616aa3a8da}{Bundesrechtsanwaltskammer}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{c8e9fe85c887c2e7528f88616aa3a8da}
+      \strng{fullhash}{c8e9fe85c887c2e7528f88616aa3a8da}
+      \field{sortinit}{B}
+      \field{labeltitle}{beA - Das besondere elektronische Anwaltspostfach}
+      \field{title}{beA - Das besondere elektronische Anwaltspostfach}
+      \field{year}{April 2015}
+      \verb{url}
+      \verb http://www.brak.de/fuer-anwaelte/bea-das-besondere-elektronische-anwaltspostfach
+      \endverb
+    \endentry
+    \entry{bea:bea:brak2-2015}{periodical}{}
+      \name{labelname}{1}{}{%
+        {{hash=c8e9fe85c887c2e7528f88616aa3a8da}{Bundesrechtsanwaltskammer}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c8e9fe85c887c2e7528f88616aa3a8da}{Bundesrechtsanwaltskammer}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{c8e9fe85c887c2e7528f88616aa3a8da}
+      \strng{fullhash}{c8e9fe85c887c2e7528f88616aa3a8da}
+      \field{sortinit}{B}
+      \field{labeltitle}{BRAKMagazin 2/2015}
+      \field{title}{BRAKMagazin 2/2015}
+      \warn{\item Datamodel: Entry 'bea:bea:brak2-2015' (eakte.bib): Invalid format 'April 2015' of date field 'date' - ignoring}
+    \endentry
+    \entry{bea:bea:brak3-2015}{periodical}{}
+      \name{labelname}{1}{}{%
+        {{hash=c8e9fe85c887c2e7528f88616aa3a8da}{Bundesrechtsanwaltskammer}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c8e9fe85c887c2e7528f88616aa3a8da}{Bundesrechtsanwaltskammer}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{c8e9fe85c887c2e7528f88616aa3a8da}
+      \strng{fullhash}{c8e9fe85c887c2e7528f88616aa3a8da}
+      \field{sortinit}{B}
+      \field{labeltitle}{BRAKMagazin 3/2015}
+      \field{title}{BRAKMagazin 3/2015}
+      \warn{\item Datamodel: Entry 'bea:bea:brak3-2015' (eakte.bib): Invalid format 'Juni 2015' of date field 'date' - ignoring}
+    \endentry
+    \entry{bea:bea:brao31}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=068e0431a4dd7fe9f983f9911ff898a2}{Bundesrechtsanwaltsordnung}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=068e0431a4dd7fe9f983f9911ff898a2}{Bundesrechtsanwaltsordnung}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{068e0431a4dd7fe9f983f9911ff898a2}
+      \strng{fullhash}{068e0431a4dd7fe9f983f9911ff898a2}
+      \field{sortinit}{B}
+      \field{labeltitle}{BRAO 31, 31a, 31b}
+      \field{title}{BRAO 31, 31a, 31b}
+      \verb{url}
+      \verb http://www.gesetze-im-internet.de/brao/__31.html
+      \endverb
+    \endentry
+    \entry{carstens2015grundlagen}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=afa6489c861328159bb924d80d587892}{Carstens}{C\bibinitperiod}{Andreas}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter GmbH \& Co KG}%
+      }
+      \strng{namehash}{afa6489c861328159bb924d80d587892}
+      \strng{fullhash}{afa6489c861328159bb924d80d587892}
+      \field{sortinit}{C}
+      \field{labeltitle}{{Grundlagen für eine barrierefreie IT in der Justiz}}
+      \field{journaltitle}{Barrierefreie Informationssysteme: Zugänglichkeit für Menschen mit Behinderung in Theorie und Praxis}
+      \field{title}{{Grundlagen für eine barrierefreie IT in der Justiz}}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{177}
+    \endentry
+    \entry{elrechtsvekehranwaltszwang}{article}{}
+      \field{sortinit}{E}
+      \field{labeltitle}{{Elektronischer Rechtsverkehr in Verfahren ohne Anwaltszwang – der Justizgewährungsanspruch des Bürgers als praktischer und theoretischer Störfaktor?}}
+      \field{title}{{Elektronischer Rechtsverkehr in Verfahren ohne Anwaltszwang – der Justizgewährungsanspruch des Bürgers als praktischer und theoretischer Störfaktor?}}
+    \endentry
+    \entry{eronen2005pre}{report}{}
+      \name{labelname}{2}{}{%
+        {{hash=dc2f23c3f14f9cd1c536b30807ce64ef}{Eronen}{E\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=20e6aaebacdb6f6a24fdadf59984a5a6}{Tschofenig}{T\bibinitperiod}{Hannes}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=dc2f23c3f14f9cd1c536b30807ce64ef}{Eronen}{E\bibinitperiod}{Pasi}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=20e6aaebacdb6f6a24fdadf59984a5a6}{Tschofenig}{T\bibinitperiod}{Hannes}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9ae5b7f3ef913979043a3b6b45daef36}
+      \strng{fullhash}{9ae5b7f3ef913979043a3b6b45daef36}
+      \field{sortinit}{E}
+      \field{labeltitle}{Pre-shared key ciphersuites for transport layer security (TLS)}
+      \field{title}{Pre-shared key ciphersuites for transport layer security (TLS)}
+      \field{type}{techreport}
+      \field{year}{2005}
+    \endentry
+    \entry{bundesgesetzblattmitgerichten}{article}{}
+      \field{sortinit}{G}
+      \field{labeltitle}{{Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten}}
+      \field{number}{NR. 62}
+      \field{title}{{Gesetz zur Förderung des elektronischen Rechtsverkehrs mit den Gerichten}}
+      \field{volume}{Teil 1}
+      \field{year}{2013}
+    \endentry
+    \entry{bea:notarpostfach}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=78d41ce95eecdd472684d119fba241a5}{Gieselmann}{G\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=78d41ce95eecdd472684d119fba241a5}{Gieselmann}{G\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{78d41ce95eecdd472684d119fba241a5}
+      \strng{fullhash}{78d41ce95eecdd472684d119fba241a5}
+      \field{sortinit}{G}
+      \field{labeltitle}{ERV mit dem Handelsregister in Deutschland}
+      \field{title}{ERV mit dem Handelsregister in Deutschland}
+      \field{year}{2008/2009}
+      \verb{url}
+      \verb https://bund-laender.verdi.de/++file++521b4860890e9b06410006a0/download/Gieselmann-Elektronischer-Rechstverkehr-mit-dem-Handelsregister.pdf
+      \endverb
+    \endentry
+    \entry{bea:bea:brak-schutzschriften}{report}{}
+      \name{labelname}{1}{}{%
+        {{hash=df966f0ee2a7711a3062514db55b98ae}{Justiz\bibnamedelimb und\bibnamedelimb für\bibnamedelima Verbraucherschutz}{J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim V\bibinitperiod}{Bundesministerium}{B\bibinitperiod}{der}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=df966f0ee2a7711a3062514db55b98ae}{Justiz\bibnamedelimb und\bibnamedelimb für\bibnamedelima Verbraucherschutz}{J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim V\bibinitperiod}{Bundesministerium}{B\bibinitperiod}{der}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{df966f0ee2a7711a3062514db55b98ae}
+      \strng{fullhash}{df966f0ee2a7711a3062514db55b98ae}
+      \field{sortinit}{J}
+      \field{labeltitle}{Entwurf einer Verordnung über das elektronische Schutzschriftenregister}
+      \field{title}{Entwurf einer Verordnung über das elektronische Schutzschriftenregister}
+      \field{type}{Referentenentwurf des Bundesministeriums der Justiz und für Verbraucherschutz}
+      \field{year}{2015}
+    \endentry
+    \entry{bea:demailgesetz}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd6174b3dbae538b970ed373ba0f094}{Justiz\bibnamedelimb und\bibnamedelimb für\bibnamedelima Verbraucherschutz}{J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim V\bibinitperiod}{Bundesministeriums}{B\bibinitperiod}{der}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd6174b3dbae538b970ed373ba0f094}{Justiz\bibnamedelimb und\bibnamedelimb für\bibnamedelima Verbraucherschutz}{J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim V\bibinitperiod}{Bundesministeriums}{B\bibinitperiod}{der}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{1dd6174b3dbae538b970ed373ba0f094}
+      \strng{fullhash}{1dd6174b3dbae538b970ed373ba0f094}
+      \field{sortinit}{J}
+      \field{labeltitle}{De-Mail-Gesetz}
+      \field{journaltitle}{BGBl. I S. 666}
+      \field{title}{De-Mail-Gesetz}
+      \field{year}{28.04.2011}
+    \endentry
+    \entry{bea:e-government}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=1dd6174b3dbae538b970ed373ba0f094}{Justiz\bibnamedelimb und\bibnamedelimb für\bibnamedelima Verbraucherschutz}{J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim V\bibinitperiod}{Bundesministeriums}{B\bibinitperiod}{der}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1dd6174b3dbae538b970ed373ba0f094}{Justiz\bibnamedelimb und\bibnamedelimb für\bibnamedelima Verbraucherschutz}{J\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim f\bibinitperiod\bibinitdelim V\bibinitperiod}{Bundesministeriums}{B\bibinitperiod}{der}{d\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{1dd6174b3dbae538b970ed373ba0f094}
+      \strng{fullhash}{1dd6174b3dbae538b970ed373ba0f094}
+      \field{sortinit}{J}
+      \field{labeltitle}{Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG)}
+      \field{journaltitle}{BGBl. I S. 2749}
+      \field{title}{Gesetz zur Förderung der elektronischen Verwaltung (E-Government-Gesetz - EGovG)}
+      \field{year}{25.07.2013}
+    \endentry
+    \entry{eakten-anforderungen}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=c8c0563bc69f2ad2ca97c5acb5a00682}{Leibenger}{L\bibinitperiod}{Dominik}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9baa069bade2ea0b0a71b667da16bc44}{Petrlic}{P\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=1a9bfd19f102edc4187a7b9c9aee5860}{Sorge}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=bff0bda8fbb8edbad396fab8df32f483}{Vogelgesang}{V\bibinitperiod}{Stephanie}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{22e85e466c971273ef12f7047b37f557}
+      \strng{fullhash}{5bba286b2538d9fd419b788245983a5e}
+      \field{sortinit}{L}
+      \field{labeltitle}{ELEKTRONISCHE AKTEN: ANFORDERUNGEN UND TECHNISCHE LÖSUNGSMÖGLICHKEITEN}
+      \field{title}{ELEKTRONISCHE AKTEN: ANFORDERUNGEN UND TECHNISCHE LÖSUNGSMÖGLICHKEITEN}
+    \endentry
+    \entry{bea:bea:praxis:qa}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=49104b579516f01aace1b7619e54adcd}{RA-MICRO}{R\bibinithyphendelim M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=49104b579516f01aace1b7619e54adcd}{RA-MICRO}{R\bibinithyphendelim M\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{49104b579516f01aace1b7619e54adcd}
+      \strng{fullhash}{49104b579516f01aace1b7619e54adcd}
+      \field{sortinit}{M}
+      \field{labeltitle}{Q \& A – Fragen und Antworten zum ERV}
+      \field{title}{Q \& A – Fragen und Antworten zum ERV}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.ra-micro.de/erv-faq
+      \endverb
+    \endentry
+    \entry{bea:demail:bullshit}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=59e424999feb8a467f57c57b1f46f4cb}{Neumann}{N\bibinitperiod}{Linus}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=59e424999feb8a467f57c57b1f46f4cb}{Neumann}{N\bibinitperiod}{Linus}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{59e424999feb8a467f57c57b1f46f4cb}
+      \strng{fullhash}{59e424999feb8a467f57c57b1f46f4cb}
+      \field{sortinit}{N}
+      \field{labeltitle}{Bullshit made in Germany}
+      \field{title}{Bullshit made in Germany}
+      \field{year}{28.12.2013}
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=p56aVppK2W4
+      \endverb
+    \endentry
+    \entry{bea:demail:ccc}{report}{}
+      \name{labelname}{1}{}{%
+        {{hash=59e424999feb8a467f57c57b1f46f4cb}{Neumann}{N\bibinitperiod}{Linus}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=59e424999feb8a467f57c57b1f46f4cb}{Neumann}{N\bibinitperiod}{Linus}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Chaos Computer Club}%
+      }
+      \strng{namehash}{59e424999feb8a467f57c57b1f46f4cb}
+      \strng{fullhash}{59e424999feb8a467f57c57b1f46f4cb}
+      \field{sortinit}{N}
+      \field{labeltitle}{Stellungnahme zum Gesetz zur Förderung der elektronischen Verwaltung sowie zur Änderung weiterer Vorschriften}
+      \field{title}{Stellungnahme zum Gesetz zur Förderung der elektronischen Verwaltung sowie zur Änderung weiterer Vorschriften}
+      \field{type}{Stellungnahme}
+      \warn{\item Datamodel: Entry 'bea:demail:ccc' (eakte.bib): Invalid format '20. März 2013' of date field 'date' - ignoring}
+    \endentry
+    \entry{bea:egvp:landkarte}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e64fefe4859fe8d96ec71b6d0a4f1ee}{NRW}{N\bibinitperiod}{OVG}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e64fefe4859fe8d96ec71b6d0a4f1ee}{NRW}{N\bibinitperiod}{OVG}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9e64fefe4859fe8d96ec71b6d0a4f1ee}
+      \strng{fullhash}{9e64fefe4859fe8d96ec71b6d0a4f1ee}
+      \field{sortinit}{N}
+      \field{labeltitle}{Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016}
+      \field{title}{Änderungen beim Zugang zum elektronischen Rechtsverkehr ab 01.01.2016}
+      \field{year}{Juni 2015}
+      \verb{url}
+      \verb http://www.egvp.de
+      \endverb
+    \endentry
+    \entry{bea:demail:brokenbydesign}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=7983f492a6f669de9c512bb0fc571641}{Penndorf}{P\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7983f492a6f669de9c512bb0fc571641}{Penndorf}{P\bibinitperiod}{David}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Universität Siegen - Fakultät III Wirtschaftsinformatik}%
+      }
+      \strng{namehash}{7983f492a6f669de9c512bb0fc571641}
+      \strng{fullhash}{7983f492a6f669de9c512bb0fc571641}
+      \field{sortinit}{P}
+      \field{labeltitle}{De-Mail - Broken by Design}
+      \field{title}{De-Mail - Broken by Design}
+      \field{type}{Seminararbeit}
+      \warn{\item Datamodel: Entry 'bea:demail:brokenbydesign' (eakte.bib): Invalid format '23. August 2013' of date field 'date' - ignoring}
+    \endentry
+    \entry{Rivest:1983:MOD:357980.358017}{article}{}
+      \name{labelname}{3}{}{%
+        {{hash=2d0c582d3af4de29d5eb45ead12db992}{Rivest}{R\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=4428b6a70754316ea73dbc348cb52e36}{Shamir}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=eb749023efc2e82559c2ac21664a53f8}{Adleman}{A\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=2d0c582d3af4de29d5eb45ead12db992}{Rivest}{R\bibinitperiod}{R.\bibnamedelimi L.}{R\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=4428b6a70754316ea73dbc348cb52e36}{Shamir}{S\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=eb749023efc2e82559c2ac21664a53f8}{Adleman}{A\bibinitperiod}{L.}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{05e5714b02f8faa78f8f1a4278b961de}
+      \strng{fullhash}{05e5714b02f8faa78f8f1a4278b961de}
+      \field{sortinit}{R}
+      \field{labeltitle}{A Method for Obtaining Digital Signatures and Public-key Cryptosystems}
+      \field{issn}{0001-0782}
+      \field{journaltitle}{Commun. ACM}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{A Method for Obtaining Digital Signatures and Public-key Cryptosystems}
+      \field{volume}{26}
+      \field{year}{1983}
+      \field{pages}{96\bibrangedash 99}
+      \verb{doi}
+      \verb 10.1145/357980.358017
+      \endverb
+      \verb{url}
+      \verb http://doi.acm.org/10.1145/357980.358017
+      \endverb
+      \keyw{authentication,cryptography,digital signatures,electronic funds transfer,electronic mail,factorization,message-passing,prime number,privacy,public-key cryptosystems,security}
+    \endentry
+    \entry{RoblingDenning:1982:CDS:539308}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c03cd1e894384cc5a3abdc31cbbe3abb}{Robling\bibnamedelima Denning}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{Dorothy\bibnamedelima Elizabeth}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c03cd1e894384cc5a3abdc31cbbe3abb}{Robling\bibnamedelima Denning}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{Dorothy\bibnamedelima Elizabeth}{D\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Longman Publishing Co., Inc.}%
+      }
+      \strng{namehash}{c03cd1e894384cc5a3abdc31cbbe3abb}
+      \strng{fullhash}{c03cd1e894384cc5a3abdc31cbbe3abb}
+      \field{sortinit}{R}
+      \field{labeltitle}{Cryptography and Data Security}
+      \field{isbn}{0-201-10150-5}
+      \field{title}{Cryptography and Data Security}
+      \field{year}{1982}
+    \endentry
+    \entry{shin2003new}{incollection}{}
+      \name{labelname}{3}{}{%
+        {{hash=d34a48b1cca0d7f1447c7245f613d228}{Shin}{S\bibinitperiod}{Jun-Bum}{J\bibinithyphendelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=546d35a6711c97189cc903b186f2817b}{Lee}{L\bibinitperiod}{Kwangsu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=474d4e5c198d86244c7cec72a131a467}{Shim}{S\bibinitperiod}{Kyungah}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=d34a48b1cca0d7f1447c7245f613d228}{Shin}{S\bibinitperiod}{Jun-Bum}{J\bibinithyphendelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=546d35a6711c97189cc903b186f2817b}{Lee}{L\bibinitperiod}{Kwangsu}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=474d4e5c198d86244c7cec72a131a467}{Shim}{S\bibinitperiod}{Kyungah}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{41dfcaf340bd6f83996b2d43994f66fb}
+      \strng{fullhash}{41dfcaf340bd6f83996b2d43994f66fb}
+      \field{sortinit}{S}
+      \field{labeltitle}{New DSA-verifiable signcryption schemes}
+      \field{booktitle}{Information Security and Cryptology—ICISC 2002}
+      \field{title}{New DSA-verifiable signcryption schemes}
+      \field{year}{2003}
+      \field{pages}{35\bibrangedash 47}
+    \endentry
+    \entry{smid1998digital}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7ff90222286d78fa3761285c029c964a}{Smid}{S\bibinitperiod}{Miles\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7ff90222286d78fa3761285c029c964a}{Smid}{S\bibinitperiod}{Miles\bibnamedelima E}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7ff90222286d78fa3761285c029c964a}
+      \strng{fullhash}{7ff90222286d78fa3761285c029c964a}
+      \field{sortinit}{S}
+      \field{labeltitle}{Digital Signature Standard}
+      \field{title}{Digital Signature Standard}
+      \field{year}{1998}
+    \endentry
+    \entry{Smith:2001:APP:501593}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=7f2aeaac91d1fba6bcfdaa59de3bccf9}{Smith}{S\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7f2aeaac91d1fba6bcfdaa59de3bccf9}{Smith}{S\bibinitperiod}{Richard\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA, USA}%
+      }
+      \list{publisher}{1}{%
+        {Addison-Wesley Longman Publishing Co., Inc.}%
+      }
+      \strng{namehash}{7f2aeaac91d1fba6bcfdaa59de3bccf9}
+      \strng{fullhash}{7f2aeaac91d1fba6bcfdaa59de3bccf9}
+      \field{sortinit}{S}
+      \field{labeltitle}{Authentication: From Passwords to Public Keys}
+      \field{isbn}{0-201-61599-1}
+      \field{title}{Authentication: From Passwords to Public Keys}
+      \field{year}{2002}
+    \endentry
+    \entry{thomas2015multi}{misc}{}
+      \name{labelname}{4}{}{%
+        {{hash=ee0aa7e6646c55a5475e3ad7670ccc13}{Thomas}{T\bibinitperiod}{Annie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3c8743c252a3a681144906bde41992bc}{Garg}{G\bibinitperiod}{Shalin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bc3a733b7fd3c792ec3da1a495890bac}{Bose}{B\bibinitperiod}{Sneha}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8d51341ef272d2e53f8cb4f26bffdb29}{Vallat}{V\bibinitperiod}{Sathish}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=ee0aa7e6646c55a5475e3ad7670ccc13}{Thomas}{T\bibinitperiod}{Annie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=3c8743c252a3a681144906bde41992bc}{Garg}{G\bibinitperiod}{Shalin}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bc3a733b7fd3c792ec3da1a495890bac}{Bose}{B\bibinitperiod}{Sneha}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=8d51341ef272d2e53f8cb4f26bffdb29}{Vallat}{V\bibinitperiod}{Sathish}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1d9b8a07b73515926456720b9d210cef}
+      \strng{fullhash}{9491eb5d9df4835d0ba2ee8d977fdbaa}
+      \field{sortinit}{T}
+      \field{labeltitle}{MULTI-FACTOR AUTHENTICATION}
+      \field{month}{05~21}
+      \field{note}{US Patent 20,150,143,496}
+      \field{title}{MULTI-FACTOR AUTHENTICATION}
+      \field{year}{2015}
+    \endentry
+    \entry{bea:demail}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=4ef02268c73963476f4edaf2c2c540dc}{Wikipedia}{W\bibinitperiod}{mehrere\bibnamedelima Autoren}{m\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4ef02268c73963476f4edaf2c2c540dc}{Wikipedia}{W\bibinitperiod}{mehrere\bibnamedelima Autoren}{m\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4ef02268c73963476f4edaf2c2c540dc}
+      \strng{fullhash}{4ef02268c73963476f4edaf2c2c540dc}
+      \field{sortinit}{W}
+      \field{labeltitle}{De-Mail}
+      \field{title}{De-Mail}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/De-Mail
+      \endverb
+    \endentry
+    \entry{bea:osci}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=4ef02268c73963476f4edaf2c2c540dc}{Wikipedia}{W\bibinitperiod}{mehrere\bibnamedelima Autoren}{m\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4ef02268c73963476f4edaf2c2c540dc}{Wikipedia}{W\bibinitperiod}{mehrere\bibnamedelima Autoren}{m\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{4ef02268c73963476f4edaf2c2c540dc}
+      \strng{fullhash}{4ef02268c73963476f4edaf2c2c540dc}
+      \field{sortinit}{W}
+      \field{labeltitle}{Online Services Computer Interface}
+      \field{title}{Online Services Computer Interface}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Online_Services_Computer_Interface
+      \endverb
+    \endentry
+    \entry{yang2008two}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=6700872a39055967b17c16d27e04c5ed}{Yang}{Y\bibinitperiod}{Guomin}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=cfe1203a450dc706d6e576f1efbc298c}{Wong}{W\bibinitperiod}{Duncan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7266c8f88e24dbee8bce391e02663a0b}{Wang}{W\bibinitperiod}{Huaxiong}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0bb8278480540893b039fa333b72d83c}{Deng}{D\bibinitperiod}{Xiaotie}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=6700872a39055967b17c16d27e04c5ed}{Yang}{Y\bibinitperiod}{Guomin}{G\bibinitperiod}{}{}{}{}}%
+        {{hash=cfe1203a450dc706d6e576f1efbc298c}{Wong}{W\bibinitperiod}{Duncan\bibnamedelima S}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=7266c8f88e24dbee8bce391e02663a0b}{Wang}{W\bibinitperiod}{Huaxiong}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=0bb8278480540893b039fa333b72d83c}{Deng}{D\bibinitperiod}{Xiaotie}{X\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{13b2253483eb0ac1ef36e93f86c66656}
+      \strng{fullhash}{5d0ec0174520c4c155c49cf141c9f200}
+      \field{sortinit}{Y}
+      \field{labeltitle}{Two-factor mutual authentication based on smart cards and passwords}
+      \field{journaltitle}{Journal of Computer and System Sciences}
+      \field{number}{7}
+      \field{title}{Two-factor mutual authentication based on smart cards and passwords}
+      \field{volume}{74}
+      \field{year}{2008}
+      \field{pages}{1160\bibrangedash 1172}
+    \endentry
+    \entry{bea:egvp}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=a76e3012b5146d2165d70286b2ad653c}{Zander}{Z\bibinitperiod}{Henning}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a76e3012b5146d2165d70286b2ad653c}{Zander}{Z\bibinitperiod}{Henning}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a76e3012b5146d2165d70286b2ad653c}
+      \strng{fullhash}{a76e3012b5146d2165d70286b2ad653c}
+      \field{sortinit}{Z}
+      \field{labeltitle}{Das Postfach, das kein Postfach ist}
+      \field{title}{Das Postfach, das kein Postfach ist}
+      \field{year}{14.04.2015}
+      \verb{url}
+      \verb http://www.lto.de/recht/kanzleien-unternehmen/k/bea-elektronisches-anwaltspostfach-januar-2016-verpflichtend-spaestens-bis-2022
+      \endverb
+    \endentry
+    \entry{bea:bea:zpo130}{online}{}
+      \name{labelname}{1}{}{%
+        {{hash=fdca4423aaab47778ceb12671ea26141}{Zivilprozessordnung}{Z\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=fdca4423aaab47778ceb12671ea26141}{Zivilprozessordnung}{Z\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{fdca4423aaab47778ceb12671ea26141}
+      \strng{fullhash}{fdca4423aaab47778ceb12671ea26141}
+      \field{sortinit}{Z}
+      \field{labeltitle}{Zivilprozessordnung §130a-d}
+      \field{title}{Zivilprozessordnung §130a-d}
+      \verb{url}
+      \verb http://www.gesetze-im-internet.de/zpo/__130a.html
+      \endverb
+    \endentry
+  \endsortlist
+  \missing{bea:bea:brak2/2015}
+  \missing{bea:bea:brak3/2015}
+\endrefsection
+\endinput
+

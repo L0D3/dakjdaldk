@@ -1,0 +1,89 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\contentsline {title}{Rechtliche und technische Aspekte der E-Akte in der Anwaltschaft}{1}
+\defcounter {refsection}{0}\relax 
+\authcount {1}
+\defcounter {refsection}{0}\relax 
+\contentsline {author}{Andreas Busche \& Johannes Lahann}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Motivation}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Zielstellung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Gliederung}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Gesetz zur F\IeC {\"o}rderung des elektronischen Rechtsverkehrs mit den Gerichten}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Auswirkungen der elektronischen Akte auf die Anwaltskanzlei}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Anwaltliche Rechtsberatung}{6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Anforderungen}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Elektronische Aktenf\IeC {\"u}hrung}{7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Besonderes elektronisches Anwaltspostfach \IeC {\textsection } 31a Brao}{8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Technische Aspekte}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Authentifizierung}{9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Multi-factor authentication}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mutual authentication}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Shared Secrets (Passwords)}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{One time passwords (otp)}{10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{SSL/TLS Protokoll}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Autorisierung/Zugriffskontrolle}{11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Digitale Signaturen}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{RSA}{13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{DSA}{14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}EGVP}{15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}De-Mail}{16}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Besonderes elektronisches Anwaltspostfach}{17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Rechtliche Rahmenbedingungen}{18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}Zeitplan}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3}Umsetzung des beA}{20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4}Wie werden Nachrichten versendet?}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5}Nachrichten versenden und weiterbearbeiten}{22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.6}Sicherheitstechnische Mittel}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Ende-zu-Ende-Verschl\IeC {\"u}sselung}{24}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Sicherheitskarte}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{S.A.F.E.}{25}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{OSCI}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Erstanmeldung}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.7}Das beA in der Praxis}{26}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Anw\IeC {\"a}lte}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Kanzleien}{28}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.8}Schutzschriftenregister}{29}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.9}Besonderes elektronisches Notarpostfach}{30}
